@@ -1,0 +1,9 @@
+type: trigger
+name: custom/vsftpd-backdoor-attempt
+description: "Detects the specific :) smiley face trigger for vsftpd 2.3.4 backdoor"
+filter: "evt.Parsed.ftp_cmd contains ':)'"
+blackhole: 4h
+labels:
+  service: vsftpd
+  remediation: true
+  type: exploit

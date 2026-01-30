@@ -1,0 +1,83 @@
+
+--------------------------------- File Information (time: 0:00:01.173155) ---------------------------------
+filename         ../calc.exe
+filetype         PE32+ executable (GUI) x86-64, for MS Windows, 7 sections
+filesize         49152
+md5              cfca921bbac5103bf369b2b1b604c13e
+sha1             72bf321b97a6122a38458962da76e15d6ec45dab
+sha256           81bd48985fa1753e9e2158a7cf969141edddbd050e976801bb477e24a2a06b2a
+virustotal       X-Apikey header is missing
+imagebase        0x140000000 *
+entrypoint       0x1740
+imphash          1c9f3a396211b31fa9d65a8ce96b9bb4
+datetime         2096-10-19 00:40:27
+dll              False
+directories      import, debug, tls, resources, relocations
+sections         .text, fothk, .rdata, .data, .pdata, .rsrc, .reloc
+features         antidbg, packer
+
+----------------------------------------------- Yara Plugins -----------------------------------------------
+Microsoft Visual Cpp 80 DLL
+IsPE64
+IsWindowsGUI
+HasDebugData
+HasRichSignature
+
+------------------------------------------------- Behavior -------------------------------------------------
+Xor
+
+-------------------------------------------------- Packer --------------------------------------------------
+Microsoft Visual Cpp 80 DLL
+
+------------------------------------------------ Anti Debug ------------------------------------------------
+TerminateProcess
+UnhandledExceptionFilter
+
+------------------------------------------- Sections Suspicious -------------------------------------------
+For each section the value of entropy is less than 6
+
+------------------------------------------------- Metadata -------------------------------------------------
+CompanyName      Microsoft Corporation
+FileDescription  Windows Calculator
+FileVersion      10.0.26100.1882 (WinBuild.160101.0800)
+InternalName     CALC
+LegalCopyright   © Microsoft Corporation. All rights reserved.
+OriginalFilename CALC.EXE
+ProductName      Microsoft® Windows® Operating System
+ProductVersion   10.0.26100.1882
+
+--------------------------------------------- Import function ---------------------------------------------
+SHELL32.dll      1
+KERNEL32.dll     12
+msvcrt.dll       15
+ADVAPI32.dll     3
+api-ms-win-core-synch-l1-2-0.dll 1
+api-ms-win-core-processthreads-l1-1-0.dll 1
+api-ms-win-core-libraryloader-l1-2-0.dll 1
+
+------------------------------------------- Possibile Breakpoint -------------------------------------------
+GetCurrentProcess
+GetCurrentProcessId
+GetModuleHandleW
+GetStartupInfoW
+GetTickCount
+ShellExecuteW
+Sleep
+TerminateProcess
+UnhandledExceptionFilter
+
+--------------------------------------------------- Url ---------------------------------------------------
+http://schemas.microsoft.com/SMI/2005/WindowsSettings
+
+--------------------------------------------------- File ---------------------------------------------------
+calc.pdb         Unknown
+SHELL32.dll      Library
+KERNEL32.dll     Library
+msvcrt.dll       Library
+ADVAPI32.dll     Library
+api-ms-win-core-synch-l1-2-0.dll Library
+api-ms-win-core-processthreads-l1-1-0.dll Library
+api-ms-win-core-libraryloader-l1-2-0.dll Library
+
+------------------------------------------------- Fuzzing -------------------------------------------------
+Possible connections

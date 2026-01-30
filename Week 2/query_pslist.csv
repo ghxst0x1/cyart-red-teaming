@@ -1,0 +1,2359 @@
+Pid,Ppid,Name,Threads,Username,OwnerSid,CommandLine,Exe,TokenIsElevated,CreateTime,User,System,IoCounters,Memory,PebBaseAddress,IsWow64,StartTime,EndTime
+" 1056"," 724",svchost.exe,3,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts,C:\Windows\System32\svchost.exe,false,2026-01-28T05:59:30.6661104Z,0,0,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 33,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 110
+}","{
+ ""PageFaultCount"": 1555,
+ ""PeakWorkingSetSize"": 5898240,
+ ""WorkingSetSize"": 5189632,
+ ""QuotaPeakPagedPoolUsage"": 62736,
+ ""QuotaPagedPoolUsage"": 60768,
+ ""QuotaPeakNonPagedPoolUsage"": 8136,
+ ""QuotaNonPagedPoolUsage"": 7728,
+ ""PagefileUsage"": 1339392,
+ ""PeakPagefileUsage"": 1523712
+}",336204865536,false,2026-01-28T05:59:30.6661104Z,0001-01-01T00:00:00Z
+" 1060"," 724",svchost.exe,1,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s TimeBrokerSvc,C:\Windows\System32\svchost.exe,false,2026-01-28T05:59:30.6661112Z,0.046875,0,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 77,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 270
+}","{
+ ""PageFaultCount"": 3557,
+ ""PeakWorkingSetSize"": 12623872,
+ ""WorkingSetSize"": 12070912,
+ ""QuotaPeakPagedPoolUsage"": 116696,
+ ""QuotaPagedPoolUsage"": 116376,
+ ""QuotaPeakNonPagedPoolUsage"": 10600,
+ ""QuotaNonPagedPoolUsage"": 9784,
+ ""PagefileUsage"": 1941504,
+ ""PeakPagefileUsage"": 2310144
+}",96731549696,false,2026-01-28T05:59:30.6661112Z,0001-01-01T00:00:00Z
+" 108"," 4",Registry,4,NT AUTHORITY\SYSTEM,S-1-5-18,,,false,2026-01-28T05:59:16.7761892Z,0,0.40625,"{
+ ""ReadOperationCount"": 4,
+ ""WriteOperationCount"": 1116,
+ ""OtherOperationCount"": 279,
+ ""ReadTransferCount"": 16384,
+ ""WriteTransferCount"": 32182272,
+ ""OtherTransferCount"": 3875
+}","{
+ ""PageFaultCount"": 35697,
+ ""PeakWorkingSetSize"": 79278080,
+ ""WorkingSetSize"": 19181568,
+ ""QuotaPeakPagedPoolUsage"": 236896,
+ ""QuotaPagedPoolUsage"": 167904,
+ ""QuotaPeakNonPagedPoolUsage"": 10232,
+ ""QuotaNonPagedPoolUsage"": 8296,
+ ""PagefileUsage"": 4575232,
+ ""PeakPagefileUsage"": 8413184
+}",0,false,2026-01-28T05:59:16.7761892Z,0001-01-01T00:00:00Z
+" 1200"," 724",svchost.exe,2,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s ProfSvc,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:31.1915893Z,0.03125,0.15625,"{
+ ""ReadOperationCount"": 2,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 5642,
+ ""ReadTransferCount"": 8192,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 167834
+}","{
+ ""PageFaultCount"": 4264,
+ ""PeakWorkingSetSize"": 14868480,
+ ""WorkingSetSize"": 13668352,
+ ""QuotaPeakPagedPoolUsage"": 167600,
+ ""QuotaPagedPoolUsage"": 160880,
+ ""QuotaPeakNonPagedPoolUsage"": 14960,
+ ""QuotaNonPagedPoolUsage"": 13728,
+ ""PagefileUsage"": 3362816,
+ ""PeakPagefileUsage"": 3862528
+}",34420932608,false,2026-01-28T05:59:31.1915893Z,0001-01-01T00:00:00Z
+" 1264"," 4708",thorium.exe,9,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe"" --type=utility --utility-sub-type=video_capture.mojom.VideoCaptureService --lang=en-US --service-sandbox-type=none --no-pre-read-main-dll --field-trial-handle=1980,i,9618310540848860198,12043710111697164074,262144 --variations-seed-version --mojo-platform-channel-handle=6472 /prefetch:8",C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe,false,2026-01-28T06:07:10.7019624Z,0.03125,0.046875,"{
+ ""ReadOperationCount"": 231,
+ ""WriteOperationCount"": 249,
+ ""OtherOperationCount"": 303,
+ ""ReadTransferCount"": 38640,
+ ""WriteTransferCount"": 66160,
+ ""OtherTransferCount"": 758
+}","{
+ ""PageFaultCount"": 8338,
+ ""PeakWorkingSetSize"": 29712384,
+ ""WorkingSetSize"": 25788416,
+ ""QuotaPeakPagedPoolUsage"": 840440,
+ ""QuotaPagedPoolUsage"": 838280,
+ ""QuotaPeakNonPagedPoolUsage"": 21464,
+ ""QuotaNonPagedPoolUsage"": 19368,
+ ""PagefileUsage"": 11657216,
+ ""PeakPagefileUsage"": 11960320
+}",561114333184,false,2026-01-28T06:07:10.7019624Z,0001-01-01T00:00:00Z
+" 1276"," 724",svchost.exe,2,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\System32\svchost.exe -k netsvcs -p -s ShellHWDetection,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:33.3777667Z,0.015625,0.109375,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 1187,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 311415
+}","{
+ ""PageFaultCount"": 3760,
+ ""PeakWorkingSetSize"": 13328384,
+ ""WorkingSetSize"": 12619776,
+ ""QuotaPeakPagedPoolUsage"": 101616,
+ ""QuotaPagedPoolUsage"": 101184,
+ ""QuotaPeakNonPagedPoolUsage"": 14928,
+ ""QuotaNonPagedPoolUsage"": 12424,
+ ""PagefileUsage"": 2195456,
+ ""PeakPagefileUsage"": 2576384
+}",28114694144,false,2026-01-28T05:59:33.3777667Z,0001-01-01T00:00:00Z
+" 1300"," 724",svchost.exe,7,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:31.3428783Z,0.453125,1.328125,"{
+ ""ReadOperationCount"": 1633,
+ ""WriteOperationCount"": 739,
+ ""OtherOperationCount"": 11648,
+ ""ReadTransferCount"": 9496960,
+ ""WriteTransferCount"": 15381992,
+ ""OtherTransferCount"": 564262
+}","{
+ ""PageFaultCount"": 13586,
+ ""PeakWorkingSetSize"": 22179840,
+ ""WorkingSetSize"": 15785984,
+ ""QuotaPeakPagedPoolUsage"": 101968,
+ ""QuotaPagedPoolUsage"": 86312,
+ ""QuotaPeakNonPagedPoolUsage"": 15768,
+ ""QuotaNonPagedPoolUsage"": 14896,
+ ""PagefileUsage"": 15273984,
+ ""PeakPagefileUsage"": 19070976
+}",345592487936,false,2026-01-28T05:59:31.3428783Z,0001-01-01T00:00:00Z
+" 1328"," 724",svchost.exe,8,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s Schedule,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:31.4724924Z,0.28125,0.59375,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 156,
+ ""OtherOperationCount"": 2692,
+ ""ReadTransferCount"": 6,
+ ""WriteTransferCount"": 3598656,
+ ""OtherTransferCount"": 112466
+}","{
+ ""PageFaultCount"": 5098,
+ ""PeakWorkingSetSize"": 15982592,
+ ""WorkingSetSize"": 14843904,
+ ""QuotaPeakPagedPoolUsage"": 266296,
+ ""QuotaPagedPoolUsage"": 258320,
+ ""QuotaPeakNonPagedPoolUsage"": 22208,
+ ""QuotaNonPagedPoolUsage"": 17720,
+ ""PagefileUsage"": 6168576,
+ ""PeakPagefileUsage"": 6868992
+}",368991178752,false,2026-01-28T05:59:31.4724924Z,0001-01-01T00:00:00Z
+" 1368"," 724",svchost.exe,6,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s UserManager,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:31.6417193Z,0.25,0.3125,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 119,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 1380
+}","{
+ ""PageFaultCount"": 4342,
+ ""PeakWorkingSetSize"": 11427840,
+ ""WorkingSetSize"": 10039296,
+ ""QuotaPeakPagedPoolUsage"": 92032,
+ ""QuotaPagedPoolUsage"": 90416,
+ ""QuotaPeakNonPagedPoolUsage"": 12392,
+ ""QuotaNonPagedPoolUsage"": 10736,
+ ""PagefileUsage"": 2740224,
+ ""PeakPagefileUsage"": 3031040
+}",1032237682688,false,2026-01-28T05:59:31.6417193Z,0001-01-01T00:00:00Z
+" 1376"," 724",svchost.exe,2,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s SysMain,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:31.6417371Z,0.53125,3.828125,"{
+ ""ReadOperationCount"": 3,
+ ""WriteOperationCount"": 517,
+ ""OtherOperationCount"": 9779,
+ ""ReadTransferCount"": 310079,
+ ""WriteTransferCount"": 5939987,
+ ""OtherTransferCount"": 128804
+}","{
+ ""PageFaultCount"": 86908,
+ ""PeakWorkingSetSize"": 19947520,
+ ""WorkingSetSize"": 14135296,
+ ""QuotaPeakPagedPoolUsage"": 129176,
+ ""QuotaPagedPoolUsage"": 108184,
+ ""QuotaPeakNonPagedPoolUsage"": 13720,
+ ""QuotaNonPagedPoolUsage"": 12160,
+ ""PagefileUsage"": 2768896,
+ ""PeakPagefileUsage"": 11079680
+}",234269716480,false,2026-01-28T05:59:31.6417371Z,0001-01-01T00:00:00Z
+" 1384"," 724",svchost.exe,2,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\System32\svchost.exe -k netsvcs -p -s Themes,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:31.6418543Z,0,0.046875,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 36,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 110
+}","{
+ ""PageFaultCount"": 1995,
+ ""PeakWorkingSetSize"": 6381568,
+ ""WorkingSetSize"": 5976064,
+ ""QuotaPeakPagedPoolUsage"": 68080,
+ ""QuotaPagedPoolUsage"": 68072,
+ ""QuotaPeakNonPagedPoolUsage"": 8288,
+ ""QuotaNonPagedPoolUsage"": 7608,
+ ""PagefileUsage"": 1335296,
+ ""PeakPagefileUsage"": 1536000
+}",889318219776,false,2026-01-28T05:59:31.6418543Z,0001-01-01T00:00:00Z
+" 1392"," 724",svchost.exe,4,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\system32\svchost.exe -k LocalService -p -s EventSystem,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:31.6425855Z,0.359375,0.1875,"{
+ ""ReadOperationCount"": 34,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 52,
+ ""ReadTransferCount"": 714,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 614
+}","{
+ ""PageFaultCount"": 2773,
+ ""PeakWorkingSetSize"": 9789440,
+ ""WorkingSetSize"": 8949760,
+ ""QuotaPeakPagedPoolUsage"": 104928,
+ ""QuotaPagedPoolUsage"": 104656,
+ ""QuotaPeakNonPagedPoolUsage"": 10520,
+ ""QuotaNonPagedPoolUsage"": 9568,
+ ""PagefileUsage"": 3100672,
+ ""PeakPagefileUsage"": 3522560
+}",72830427136,false,2026-01-28T05:59:31.6425855Z,0001-01-01T00:00:00Z
+" 1472"," 724",svchost.exe,1,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\system32\svchost.exe -k LocalService -p -s nsi,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:31.8074869Z,0.03125,0.03125,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 823,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 32742
+}","{
+ ""PageFaultCount"": 2382,
+ ""PeakWorkingSetSize"": 8306688,
+ ""WorkingSetSize"": 6488064,
+ ""QuotaPeakPagedPoolUsage"": 61848,
+ ""QuotaPagedPoolUsage"": 60008,
+ ""QuotaPeakNonPagedPoolUsage"": 21136,
+ ""QuotaNonPagedPoolUsage"": 18040,
+ ""PagefileUsage"": 3661824,
+ ""PeakPagefileUsage"": 3878912
+}",714672250880,false,2026-01-28T05:59:31.8074869Z,0001-01-01T00:00:00Z
+" 1488"," 864",SearchApp.exe,43,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe"" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca",C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe,false,2026-01-28T06:00:12.2926191Z,8.09375,3.859375,"{
+ ""ReadOperationCount"": 13925,
+ ""WriteOperationCount"": 220,
+ ""OtherOperationCount"": 20669,
+ ""ReadTransferCount"": 59300359,
+ ""WriteTransferCount"": 17539491,
+ ""OtherTransferCount"": 401186
+}","{
+ ""PageFaultCount"": 607702,
+ ""PeakWorkingSetSize"": 242774016,
+ ""WorkingSetSize"": 92831744,
+ ""QuotaPeakPagedPoolUsage"": 1053048,
+ ""QuotaPagedPoolUsage"": 954320,
+ ""QuotaPeakNonPagedPoolUsage"": 109712,
+ ""QuotaNonPagedPoolUsage"": 98704,
+ ""PagefileUsage"": 133455872,
+ ""PeakPagefileUsage"": 147943424
+}",888387358720,false,2026-01-28T06:00:12.2926191Z,0001-01-01T00:00:00Z
+" 1496"," 724",svchost.exe,5,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Dhcp,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:31.8221566Z,0.234375,0.125,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 349,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 15650
+}","{
+ ""PageFaultCount"": 2441,
+ ""PeakWorkingSetSize"": 8118272,
+ ""WorkingSetSize"": 7352320,
+ ""QuotaPeakPagedPoolUsage"": 82424,
+ ""QuotaPagedPoolUsage"": 81848,
+ ""QuotaPeakNonPagedPoolUsage"": 17956,
+ ""QuotaNonPagedPoolUsage"": 10216,
+ ""PagefileUsage"": 2187264,
+ ""PeakPagefileUsage"": 2576384
+}",860253749248,false,2026-01-28T05:59:31.8221566Z,0001-01-01T00:00:00Z
+" 1512"," 4708",thorium.exe,15,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe"" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-pre-read-main-dll --start-stack-profiler --field-trial-handle=1980,i,9618310540848860198,12043710111697164074,262144 --variations-seed-version --mojo-platform-channel-handle=1968 /prefetch:3",C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe,false,2026-01-28T06:01:50.5541778Z,3.875,3.40625,"{
+ ""ReadOperationCount"": 36776,
+ ""WriteOperationCount"": 92170,
+ ""OtherOperationCount"": 18117,
+ ""ReadTransferCount"": 34074604,
+ ""WriteTransferCount"": 32959622,
+ ""OtherTransferCount"": 160831
+}","{
+ ""PageFaultCount"": 169404,
+ ""PeakWorkingSetSize"": 363929600,
+ ""WorkingSetSize"": 341041152,
+ ""QuotaPeakPagedPoolUsage"": 1084368,
+ ""QuotaPagedPoolUsage"": 784936,
+ ""QuotaPeakNonPagedPoolUsage"": 468696,
+ ""QuotaNonPagedPoolUsage"": 20640,
+ ""PagefileUsage"": 14991360,
+ ""PeakPagefileUsage"": 31809536
+}",153075060736,false,2026-01-28T06:01:50.5541778Z,0001-01-01T00:00:00Z
+" 1552"," 724",svchost.exe,2,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s SENS,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:31.8797407Z,0,0,"{
+ ""ReadOperationCount"": 144,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 87,
+ ""ReadTransferCount"": 2896,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 1598
+}","{
+ ""PageFaultCount"": 2367,
+ ""PeakWorkingSetSize"": 8708096,
+ ""WorkingSetSize"": 7651328,
+ ""QuotaPeakPagedPoolUsage"": 80224,
+ ""QuotaPagedPoolUsage"": 78088,
+ ""QuotaPeakNonPagedPoolUsage"": 13912,
+ ""QuotaNonPagedPoolUsage"": 11592,
+ ""PagefileUsage"": 1830912,
+ ""PeakPagefileUsage"": 2187264
+}",893569024000,false,2026-01-28T05:59:31.8797407Z,0001-01-01T00:00:00Z
+" 1576"," 724",svchost.exe,2,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s AudioEndpointBuilder,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:31.8944612Z,0.046875,0.125,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 786,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 24232
+}","{
+ ""PageFaultCount"": 2490,
+ ""PeakWorkingSetSize"": 8429568,
+ ""WorkingSetSize"": 7602176,
+ ""QuotaPeakPagedPoolUsage"": 77232,
+ ""QuotaPagedPoolUsage"": 76144,
+ ""QuotaPeakNonPagedPoolUsage"": 14224,
+ ""QuotaNonPagedPoolUsage"": 9840,
+ ""PagefileUsage"": 1777664,
+ ""PeakPagefileUsage"": 2203648
+}",827272032256,false,2026-01-28T05:59:31.8944612Z,0001-01-01T00:00:00Z
+" 1584"," 724",svchost.exe,4,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\system32\svchost.exe -k LocalService -p -s FontCache,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:31.8945135Z,0.15625,0.015625,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 2029,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 133148
+}","{
+ ""PageFaultCount"": 5609,
+ ""PeakWorkingSetSize"": 12513280,
+ ""WorkingSetSize"": 7557120,
+ ""QuotaPeakPagedPoolUsage"": 195664,
+ ""QuotaPagedPoolUsage"": 122968,
+ ""QuotaPeakNonPagedPoolUsage"": 11392,
+ ""QuotaNonPagedPoolUsage"": 9904,
+ ""PagefileUsage"": 1871872,
+ ""PeakPagefileUsage"": 6823936
+}",555948793856,false,2026-01-28T05:59:31.8945135Z,0001-01-01T00:00:00Z
+" 1660"," 4",Memory Compression,30,NT AUTHORITY\SYSTEM,S-1-5-18,,,true,2026-01-28T05:59:32.1950878Z,0,12.453125,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 0,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 0
+}","{
+ ""PageFaultCount"": 349032,
+ ""PeakWorkingSetSize"": 124653568,
+ ""WorkingSetSize"": 68562944,
+ ""QuotaPeakPagedPoolUsage"": 4224,
+ ""QuotaPagedPoolUsage"": 4224,
+ ""QuotaPeakNonPagedPoolUsage"": 0,
+ ""QuotaNonPagedPoolUsage"": 0,
+ ""PagefileUsage"": 442368,
+ ""PeakPagefileUsage"": 446464
+}",0,false,2026-01-28T05:59:32.1950878Z,0001-01-01T00:00:00Z
+" 1788"," 724",svchost.exe,5,NT AUTHORITY\NETWORK SERVICE,S-1-5-20,C:\Windows\System32\svchost.exe -k NetworkService -p -s NlaSvc,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:32.5143646Z,0.078125,0.171875,"{
+ ""ReadOperationCount"": 6,
+ ""WriteOperationCount"": 6,
+ ""OtherOperationCount"": 3838,
+ ""ReadTransferCount"": 696,
+ ""WriteTransferCount"": 960,
+ ""OtherTransferCount"": 361894
+}","{
+ ""PageFaultCount"": 3600,
+ ""PeakWorkingSetSize"": 11919360,
+ ""WorkingSetSize"": 11001856,
+ ""QuotaPeakPagedPoolUsage"": 103472,
+ ""QuotaPagedPoolUsage"": 103216,
+ ""QuotaPeakNonPagedPoolUsage"": 18472,
+ ""QuotaNonPagedPoolUsage"": 14936,
+ ""PagefileUsage"": 4087808,
+ ""PeakPagefileUsage"": 4681728
+}",63788240896,false,2026-01-28T05:59:32.5143646Z,0001-01-01T00:00:00Z
+" 1808"," 724",svchost.exe,2,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s Appinfo,C:\Windows\System32\svchost.exe,true,2026-01-28T06:01:41.2383324Z,0.140625,0.578125,"{
+ ""ReadOperationCount"": 40,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 26811,
+ ""ReadTransferCount"": 166933,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 490378
+}","{
+ ""PageFaultCount"": 5077,
+ ""PeakWorkingSetSize"": 13209600,
+ ""WorkingSetSize"": 12840960,
+ ""QuotaPeakPagedPoolUsage"": 231120,
+ ""QuotaPagedPoolUsage"": 124128,
+ ""QuotaPeakNonPagedPoolUsage"": 15152,
+ ""QuotaNonPagedPoolUsage"": 12824,
+ ""PagefileUsage"": 2703360,
+ ""PeakPagefileUsage"": 3018752
+}",676505141248,false,2026-01-28T06:01:41.2383324Z,0001-01-01T00:00:00Z
+" 1816"," 4708",thorium.exe,9,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe"" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --audio-codecs-from-edid=0 --no-pre-read-main-dll --field-trial-handle=1980,i,9618310540848860198,12043710111697164074,262144 --variations-seed-version --mojo-platform-channel-handle=6760 /prefetch:8",C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe,false,2026-01-28T06:07:10.7427907Z,0.171875,0.109375,"{
+ ""ReadOperationCount"": 1336,
+ ""WriteOperationCount"": 1446,
+ ""OtherOperationCount"": 339,
+ ""ReadTransferCount"": 43560,
+ ""WriteTransferCount"": 75568,
+ ""OtherTransferCount"": 28968
+}","{
+ ""PageFaultCount"": 7262,
+ ""PeakWorkingSetSize"": 26726400,
+ ""WorkingSetSize"": 24129536,
+ ""QuotaPeakPagedPoolUsage"": 784528,
+ ""QuotaPagedPoolUsage"": 781264,
+ ""QuotaPeakNonPagedPoolUsage"": 20008,
+ ""QuotaNonPagedPoolUsage"": 16992,
+ ""PagefileUsage"": 8380416,
+ ""PeakPagefileUsage"": 8638464
+}",859777159168,false,2026-01-28T06:07:10.7427907Z,0001-01-01T00:00:00Z
+" 1876"," 724",svchost.exe,7,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:32.8217849Z,0.140625,0.1875,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 576,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 34500
+}","{
+ ""PageFaultCount"": 4521,
+ ""PeakWorkingSetSize"": 14254080,
+ ""WorkingSetSize"": 14024704,
+ ""QuotaPeakPagedPoolUsage"": 119304,
+ ""QuotaPagedPoolUsage"": 118680,
+ ""QuotaPeakNonPagedPoolUsage"": 15816,
+ ""QuotaNonPagedPoolUsage"": 13576,
+ ""PagefileUsage"": 3125248,
+ ""PeakPagefileUsage"": 3719168
+}",1078914191360,false,2026-01-28T05:59:32.8217849Z,0001-01-01T00:00:00Z
+" 1956"," 724",svchost.exe,4,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\System32\svchost.exe -k LocalService -p -s netprofm,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:33.2255716Z,0,0.15625,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 1942,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 136510
+}","{
+ ""PageFaultCount"": 3446,
+ ""PeakWorkingSetSize"": 10518528,
+ ""WorkingSetSize"": 9371648,
+ ""QuotaPeakPagedPoolUsage"": 97584,
+ ""QuotaPagedPoolUsage"": 97360,
+ ""QuotaPeakNonPagedPoolUsage"": 16776,
+ ""QuotaNonPagedPoolUsage"": 12472,
+ ""PagefileUsage"": 2686976,
+ ""PeakPagefileUsage"": 3751936
+}",351711485952,false,2026-01-28T05:59:33.2255716Z,0001-01-01T00:00:00Z
+" 1976"," 724",svchost.exe,10,NT AUTHORITY\NETWORK SERVICE,S-1-5-20,C:\Windows\system32\svchost.exe -k NetworkService -p -s Dnscache,C:\Windows\System32\svchost.exe,false,2026-01-28T05:59:33.2747018Z,0.09375,0.328125,"{
+ ""ReadOperationCount"": 2,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 5774,
+ ""ReadTransferCount"": 824,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 309076
+}","{
+ ""PageFaultCount"": 3430,
+ ""PeakWorkingSetSize"": 8650752,
+ ""WorkingSetSize"": 8564736,
+ ""QuotaPeakPagedPoolUsage"": 91832,
+ ""QuotaPagedPoolUsage"": 91256,
+ ""QuotaPeakNonPagedPoolUsage"": 17376,
+ ""QuotaNonPagedPoolUsage"": 14944,
+ ""PagefileUsage"": 3063808,
+ ""PeakPagefileUsage"": 3399680
+}",1042574344192,false,2026-01-28T05:59:33.2747018Z,0001-01-01T00:00:00Z
+" 1984"," 724",svchost.exe,4,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:33.2763406Z,0.03125,0.125,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 333,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 19422
+}","{
+ ""PageFaultCount"": 2790,
+ ""PeakWorkingSetSize"": 10375168,
+ ""WorkingSetSize"": 8470528,
+ ""QuotaPeakPagedPoolUsage"": 99904,
+ ""QuotaPagedPoolUsage"": 99872,
+ ""QuotaPeakNonPagedPoolUsage"": 20344,
+ ""QuotaNonPagedPoolUsage"": 14160,
+ ""PagefileUsage"": 2265088,
+ ""PeakPagefileUsage"": 3174400
+}",169177608192,false,2026-01-28T05:59:33.2763406Z,0001-01-01T00:00:00Z
+" 1992"," 724",svchost.exe,3,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:33.276346Z,0,0.03125,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 95,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 3150
+}","{
+ ""PageFaultCount"": 1882,
+ ""PeakWorkingSetSize"": 6975488,
+ ""WorkingSetSize"": 6234112,
+ ""QuotaPeakPagedPoolUsage"": 65368,
+ ""QuotaPagedPoolUsage"": 65368,
+ ""QuotaPeakNonPagedPoolUsage"": 13064,
+ ""QuotaNonPagedPoolUsage"": 10480,
+ ""PagefileUsage"": 1576960,
+ ""PeakPagefileUsage"": 1900544
+}",283005366272,false,2026-01-28T05:59:33.276346Z,0001-01-01T00:00:00Z
+" 2088"," 1152",velociraptor-v0.75.6-windows-amd64.exe,14,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Users\dev\Downloads\velociraptor-v0.75.6-windows-amd64.exe"" gui",C:\Users\dev\Downloads\velociraptor-v0.75.6-windows-amd64.exe,true,2026-01-28T06:01:43.3961584Z,19.53125,22.828125,"{
+ ""ReadOperationCount"": 11151,
+ ""WriteOperationCount"": 6883,
+ ""OtherOperationCount"": 205524,
+ ""ReadTransferCount"": 244694516,
+ ""WriteTransferCount"": 1069340,
+ ""OtherTransferCount"": 13640775
+}","{
+ ""PageFaultCount"": 1217452,
+ ""PeakWorkingSetSize"": 144146432,
+ ""WorkingSetSize"": 103399424,
+ ""QuotaPeakPagedPoolUsage"": 371792,
+ ""QuotaPagedPoolUsage"": 343848,
+ ""QuotaPeakNonPagedPoolUsage"": 74572,
+ ""QuotaNonPagedPoolUsage"": 39720,
+ ""PagefileUsage"": 81461248,
+ ""PeakPagefileUsage"": 121184256
+}",60999528448,false,2026-01-28T06:01:43.3961584Z,0001-01-01T00:00:00Z
+" 2160"," 864",SecurityHealthHost.exe,1,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\System32\SecurityHealthHost.exe {E041C90B-68BA-42C9-991E-477B73A75C90} -Embedding,C:\Windows\System32\SecurityHealthHost.exe,false,2026-01-28T07:02:34.9811172Z,0.03125,0.078125,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 101,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 228
+}","{
+ ""PageFaultCount"": 2814,
+ ""PeakWorkingSetSize"": 10870784,
+ ""WorkingSetSize"": 10358784,
+ ""QuotaPeakPagedPoolUsage"": 140432,
+ ""QuotaPagedPoolUsage"": 136848,
+ ""QuotaPeakNonPagedPoolUsage"": 13048,
+ ""QuotaNonPagedPoolUsage"": 10056,
+ ""PagefileUsage"": 2576384,
+ ""PeakPagefileUsage"": 3338240
+}",195617005568,false,2026-01-28T07:02:34.9811172Z,0001-01-01T00:00:00Z
+" 2196"," 724",spoolsv.exe,7,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\System32\spoolsv.exe,C:\Windows\System32\spoolsv.exe,true,2026-01-28T05:59:34.0498121Z,0,0.21875,"{
+ ""ReadOperationCount"": 2,
+ ""WriteOperationCount"": 2,
+ ""OtherOperationCount"": 1099,
+ ""ReadTransferCount"": 232,
+ ""WriteTransferCount"": 320,
+ ""OtherTransferCount"": 58867
+}","{
+ ""PageFaultCount"": 4590,
+ ""PeakWorkingSetSize"": 16109568,
+ ""WorkingSetSize"": 12369920,
+ ""QuotaPeakPagedPoolUsage"": 148808,
+ ""QuotaPagedPoolUsage"": 140768,
+ ""QuotaPeakNonPagedPoolUsage"": 28200,
+ ""QuotaNonPagedPoolUsage"": 21912,
+ ""PagefileUsage"": 5357568,
+ ""PeakPagefileUsage"": 5996544
+}",7163904,false,2026-01-28T05:59:34.0498121Z,0001-01-01T00:00:00Z
+" 2228"," 724",svchost.exe,3,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k appmodel -p -s StateRepository,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:34.1215955Z,3.15625,1.5,"{
+ ""ReadOperationCount"": 4685,
+ ""WriteOperationCount"": 49,
+ ""OtherOperationCount"": 793,
+ ""ReadTransferCount"": 18993956,
+ ""WriteTransferCount"": 115216,
+ ""OtherTransferCount"": 1046
+}","{
+ ""PageFaultCount"": 26174,
+ ""PeakWorkingSetSize"": 18669568,
+ ""WorkingSetSize"": 16642048,
+ ""QuotaPeakPagedPoolUsage"": 82888,
+ ""QuotaPagedPoolUsage"": 82552,
+ ""QuotaPeakNonPagedPoolUsage"": 11200,
+ ""QuotaNonPagedPoolUsage"": 9648,
+ ""PagefileUsage"": 7831552,
+ ""PeakPagefileUsage"": 10264576
+}",111897231360,false,2026-01-28T05:59:34.1215955Z,0001-01-01T00:00:00Z
+" 2244"," 724",svchost.exe,2,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s AppMgmt,C:\Windows\System32\svchost.exe,true,2026-01-28T06:10:44.5459329Z,0.015625,0.015625,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 83,
+ ""ReadTransferCount"": 3424,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 110
+}","{
+ ""PageFaultCount"": 1872,
+ ""PeakWorkingSetSize"": 6926336,
+ ""WorkingSetSize"": 6328320,
+ ""QuotaPeakPagedPoolUsage"": 69696,
+ ""QuotaPagedPoolUsage"": 69408,
+ ""QuotaPeakNonPagedPoolUsage"": 8832,
+ ""QuotaNonPagedPoolUsage"": 7880,
+ ""PagefileUsage"": 1380352,
+ ""PeakPagefileUsage"": 1671168
+}",823625228288,false,2026-01-28T06:10:44.5459329Z,0001-01-01T00:00:00Z
+" 2252"," 724",svchost.exe,4,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s WinHttpAutoProxySvc,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:34.135731Z,0.015625,0.03125,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 2089,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 143042
+}","{
+ ""PageFaultCount"": 3156,
+ ""PeakWorkingSetSize"": 8077312,
+ ""WorkingSetSize"": 7364608,
+ ""QuotaPeakPagedPoolUsage"": 78568,
+ ""QuotaPagedPoolUsage"": 78344,
+ ""QuotaPeakNonPagedPoolUsage"": 12368,
+ ""QuotaNonPagedPoolUsage"": 10088,
+ ""PagefileUsage"": 2011136,
+ ""PeakPagefileUsage"": 2547712
+}",4298854400,false,2026-01-28T05:59:34.135731Z,0001-01-01T00:00:00Z
+" 2296"," 724",svchost.exe,10,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:34.158851Z,0.25,3.015625,"{
+ ""ReadOperationCount"": 4,
+ ""WriteOperationCount"": 5,
+ ""OtherOperationCount"": 10300,
+ ""ReadTransferCount"": 464,
+ ""WriteTransferCount"": 33408,
+ ""OtherTransferCount"": 496356
+}","{
+ ""PageFaultCount"": 14525,
+ ""PeakWorkingSetSize"": 23257088,
+ ""WorkingSetSize"": 20340736,
+ ""QuotaPeakPagedPoolUsage"": 172832,
+ ""QuotaPagedPoolUsage"": 157760,
+ ""QuotaPeakNonPagedPoolUsage"": 35816,
+ ""QuotaNonPagedPoolUsage"": 33408,
+ ""PagefileUsage"": 9064448,
+ ""PeakPagefileUsage"": 11808768
+}",573387186176,false,2026-01-28T05:59:34.158851Z,0001-01-01T00:00:00Z
+" 2352"," 724",svchost.exe,5,NT AUTHORITY\NETWORK SERVICE,S-1-5-20,C:\Windows\System32\svchost.exe -k NetworkService -p -s LanmanWorkstation,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:34.2200442Z,0.046875,0.078125,"{
+ ""ReadOperationCount"": 1091,
+ ""WriteOperationCount"": 759,
+ ""OtherOperationCount"": 3389,
+ ""ReadTransferCount"": 68368,
+ ""WriteTransferCount"": 108940,
+ ""OtherTransferCount"": 11398
+}","{
+ ""PageFaultCount"": 2555,
+ ""PeakWorkingSetSize"": 8654848,
+ ""WorkingSetSize"": 7741440,
+ ""QuotaPeakPagedPoolUsage"": 89896,
+ ""QuotaPagedPoolUsage"": 84616,
+ ""QuotaPeakNonPagedPoolUsage"": 12736,
+ ""QuotaNonPagedPoolUsage"": 10952,
+ ""PagefileUsage"": 2084864,
+ ""PeakPagefileUsage"": 2228224
+}",427299659776,false,2026-01-28T05:59:34.2200442Z,0001-01-01T00:00:00Z
+" 2516"," 724",svchost.exe,6,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s UsoSvc,C:\Windows\System32\svchost.exe,true,2026-01-28T06:01:20.7656522Z,0.015625,0.03125,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 1,
+ ""OtherOperationCount"": 161,
+ ""ReadTransferCount"": 6112,
+ ""WriteTransferCount"": 4096,
+ ""OtherTransferCount"": 5550
+}","{
+ ""PageFaultCount"": 2862,
+ ""PeakWorkingSetSize"": 9994240,
+ ""WorkingSetSize"": 9531392,
+ ""QuotaPeakPagedPoolUsage"": 84936,
+ ""QuotaPagedPoolUsage"": 84824,
+ ""QuotaPeakNonPagedPoolUsage"": 12552,
+ ""QuotaNonPagedPoolUsage"": 11808,
+ ""PagefileUsage"": 2326528,
+ ""PeakPagefileUsage"": 2637824
+}",1005599387648,false,2026-01-28T06:01:20.7656522Z,0001-01-01T00:00:00Z
+" 2528"," 724",svchost.exe,9,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\System32\svchost.exe -k utcsvc -p,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:34.6312284Z,2.78125,1.53125,"{
+ ""ReadOperationCount"": 283,
+ ""WriteOperationCount"": 197,
+ ""OtherOperationCount"": 9375,
+ ""ReadTransferCount"": 73726772,
+ ""WriteTransferCount"": 383366,
+ ""OtherTransferCount"": 344109
+}","{
+ ""PageFaultCount"": 129008,
+ ""PeakWorkingSetSize"": 77529088,
+ ""WorkingSetSize"": 33779712,
+ ""QuotaPeakPagedPoolUsage"": 445408,
+ ""QuotaPagedPoolUsage"": 240224,
+ ""QuotaPeakNonPagedPoolUsage"": 31480,
+ ""QuotaNonPagedPoolUsage"": 27608,
+ ""PagefileUsage"": 18448384,
+ ""PeakPagefileUsage"": 57409536
+}",670283157504,false,2026-01-28T05:59:34.6312284Z,0001-01-01T00:00:00Z
+" 2536"," 724",svchost.exe,2,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:34.6326483Z,0.0625,0.3125,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 31,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 270
+}","{
+ ""PageFaultCount"": 1746,
+ ""PeakWorkingSetSize"": 6631424,
+ ""WorkingSetSize"": 6184960,
+ ""QuotaPeakPagedPoolUsage"": 64528,
+ ""QuotaPagedPoolUsage"": 62144,
+ ""QuotaPeakNonPagedPoolUsage"": 8016,
+ ""QuotaNonPagedPoolUsage"": 7472,
+ ""PagefileUsage"": 1552384,
+ ""PeakPagefileUsage"": 1675264
+}",195316858880,false,2026-01-28T05:59:34.6326483Z,0001-01-01T00:00:00Z
+" 2552"," 724",svchost.exe,15,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\System32\svchost.exe -k LocalServiceNoNetwork -p -s DPS,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:34.6372495Z,0.65625,0.6875,"{
+ ""ReadOperationCount"": 714,
+ ""WriteOperationCount"": 3730,
+ ""OtherOperationCount"": 3203,
+ ""ReadTransferCount"": 47447132,
+ ""WriteTransferCount"": 17658982,
+ ""OtherTransferCount"": 305232
+}","{
+ ""PageFaultCount"": 65479,
+ ""PeakWorkingSetSize"": 53313536,
+ ""WorkingSetSize"": 29499392,
+ ""QuotaPeakPagedPoolUsage"": 134640,
+ ""QuotaPagedPoolUsage"": 123624,
+ ""QuotaPeakNonPagedPoolUsage"": 36928,
+ ""QuotaNonPagedPoolUsage"": 20696,
+ ""PagefileUsage"": 22843392,
+ ""PeakPagefileUsage"": 53014528
+}",599336505344,false,2026-01-28T05:59:34.6372495Z,0001-01-01T00:00:00Z
+" 2560"," 724",svchost.exe,5,NT AUTHORITY\NETWORK SERVICE,S-1-5-20,C:\Windows\system32\svchost.exe -k NetworkService -p -s CryptSvc,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:34.6383635Z,6.09375,5.25,"{
+ ""ReadOperationCount"": 548,
+ ""WriteOperationCount"": 21,
+ ""OtherOperationCount"": 2040,
+ ""ReadTransferCount"": 623569,
+ ""WriteTransferCount"": 7294,
+ ""OtherTransferCount"": 94098
+}","{
+ ""PageFaultCount"": 377270,
+ ""PeakWorkingSetSize"": 13271040,
+ ""WorkingSetSize"": 12976128,
+ ""QuotaPeakPagedPoolUsage"": 128520,
+ ""QuotaPagedPoolUsage"": 120048,
+ ""QuotaPeakNonPagedPoolUsage"": 30584,
+ ""QuotaNonPagedPoolUsage"": 26216,
+ ""PagefileUsage"": 3719168,
+ ""PeakPagefileUsage"": 4304896
+}",977572532224,false,2026-01-28T05:59:34.6383635Z,0001-01-01T00:00:00Z
+" 2572"," 724",svchost.exe,23,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s Winmgmt,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:34.6442608Z,4.859375,3.96875,"{
+ ""ReadOperationCount"": 11870,
+ ""WriteOperationCount"": 6559,
+ ""OtherOperationCount"": 452,
+ ""ReadTransferCount"": 96964476,
+ ""WriteTransferCount"": 55165468,
+ ""OtherTransferCount"": 99356
+}","{
+ ""PageFaultCount"": 121196,
+ ""PeakWorkingSetSize"": 25915392,
+ ""WorkingSetSize"": 18968576,
+ ""QuotaPeakPagedPoolUsage"": 117192,
+ ""QuotaPagedPoolUsage"": 110056,
+ ""QuotaPeakNonPagedPoolUsage"": 19136,
+ ""QuotaNonPagedPoolUsage"": 17360,
+ ""PagefileUsage"": 10735616,
+ ""PeakPagefileUsage"": 17162240
+}",831035830272,false,2026-01-28T05:59:34.6442608Z,0001-01-01T00:00:00Z
+" 2584"," 724",svchost.exe,3,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TrkWks,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:34.6466334Z,0.03125,0,"{
+ ""ReadOperationCount"": 44,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 131,
+ ""ReadTransferCount"": 22528,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 3340
+}","{
+ ""PageFaultCount"": 1669,
+ ""PeakWorkingSetSize"": 6213632,
+ ""WorkingSetSize"": 5591040,
+ ""QuotaPeakPagedPoolUsage"": 64928,
+ ""QuotaPagedPoolUsage"": 62776,
+ ""QuotaPeakNonPagedPoolUsage"": 9080,
+ ""QuotaNonPagedPoolUsage"": 7648,
+ ""PagefileUsage"": 1347584,
+ ""PeakPagefileUsage"": 1527808
+}",751727190016,false,2026-01-28T05:59:34.6466334Z,0001-01-01T00:00:00Z
+" 2608"," 724",MpDefenderCoreService.exe,9,NT AUTHORITY\SYSTEM,S-1-5-18,"""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.25110.6-0\MpDefenderCoreService.exe""",C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25110.6-0\MpDefenderCoreService.exe,true,2026-01-28T05:59:34.6530016Z,0.078125,0.34375,"{
+ ""ReadOperationCount"": 345,
+ ""WriteOperationCount"": 10,
+ ""OtherOperationCount"": 4956,
+ ""ReadTransferCount"": 2959475,
+ ""WriteTransferCount"": 20413,
+ ""OtherTransferCount"": 65119
+}","{
+ ""PageFaultCount"": 21250,
+ ""PeakWorkingSetSize"": 21413888,
+ ""WorkingSetSize"": 17227776,
+ ""QuotaPeakPagedPoolUsage"": 160176,
+ ""QuotaPagedPoolUsage"": 148040,
+ ""QuotaPeakNonPagedPoolUsage"": 18896,
+ ""QuotaNonPagedPoolUsage"": 16352,
+ ""PagefileUsage"": 8515584,
+ ""PeakPagefileUsage"": 9080832
+}",434122846208,false,2026-01-28T05:59:34.6530016Z,0001-01-01T00:00:00Z
+" 2640"," 724",svchost.exe,5,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s WpnService,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:34.664916Z,0.109375,0.28125,"{
+ ""ReadOperationCount"": 55,
+ ""WriteOperationCount"": 17,
+ ""OtherOperationCount"": 806,
+ ""ReadTransferCount"": 213720,
+ ""WriteTransferCount"": 33120,
+ ""OtherTransferCount"": 19134
+}","{
+ ""PageFaultCount"": 6922,
+ ""PeakWorkingSetSize"": 23457792,
+ ""WorkingSetSize"": 21827584,
+ ""QuotaPeakPagedPoolUsage"": 190256,
+ ""QuotaPagedPoolUsage"": 182680,
+ ""QuotaPeakNonPagedPoolUsage"": 52164,
+ ""QuotaNonPagedPoolUsage"": 20016,
+ ""PagefileUsage"": 4825088,
+ ""PeakPagefileUsage"": 5476352
+}",1010643550208,false,2026-01-28T05:59:34.664916Z,0001-01-01T00:00:00Z
+" 2724"," 724",vmtoolsd.exe,14,NT AUTHORITY\SYSTEM,S-1-5-18,"""C:\Program Files\VMware\VMware Tools\vmtoolsd.exe""",C:\Program Files\VMware\VMware Tools\vmtoolsd.exe,true,2026-01-28T05:59:34.7805464Z,0.875,0.65625,"{
+ ""ReadOperationCount"": 1601,
+ ""WriteOperationCount"": 809,
+ ""OtherOperationCount"": 42901,
+ ""ReadTransferCount"": 821144,
+ ""WriteTransferCount"": 181483,
+ ""OtherTransferCount"": 2991076
+}","{
+ ""PageFaultCount"": 14417,
+ ""PeakWorkingSetSize"": 22786048,
+ ""WorkingSetSize"": 17940480,
+ ""QuotaPeakPagedPoolUsage"": 177000,
+ ""QuotaPagedPoolUsage"": 173432,
+ ""QuotaPeakNonPagedPoolUsage"": 24888,
+ ""QuotaNonPagedPoolUsage"": 22440,
+ ""PagefileUsage"": 9879552,
+ ""PeakPagefileUsage"": 9924608
+}",123200016384,false,2026-01-28T05:59:34.7805464Z,0001-01-01T00:00:00Z
+" 2732"," 724",VGAuthService.exe,2,NT AUTHORITY\SYSTEM,S-1-5-18,"""C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe""",C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe,true,2026-01-28T05:59:34.8108303Z,0.015625,0.09375,"{
+ ""ReadOperationCount"": 30,
+ ""WriteOperationCount"": 22,
+ ""OtherOperationCount"": 232,
+ ""ReadTransferCount"": 32424,
+ ""WriteTransferCount"": 2279,
+ ""OtherTransferCount"": 2082
+}","{
+ ""PageFaultCount"": 2908,
+ ""PeakWorkingSetSize"": 11403264,
+ ""WorkingSetSize"": 7286784,
+ ""QuotaPeakPagedPoolUsage"": 133920,
+ ""QuotaPagedPoolUsage"": 133648,
+ ""QuotaPeakNonPagedPoolUsage"": 11792,
+ ""QuotaNonPagedPoolUsage"": 11184,
+ ""PagefileUsage"": 2564096,
+ ""PeakPagefileUsage"": 2662400
+}",722390790144,false,2026-01-28T05:59:34.8108303Z,0001-01-01T00:00:00Z
+" 2760"," 724",MsMpEng.exe,9,NT AUTHORITY\SYSTEM,S-1-5-18,"""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.25110.6-0\MsMpEng.exe""",C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25110.6-0\MsMpEng.exe,true,2026-01-28T05:59:34.9224313Z,291,146.40625,"{
+ ""ReadOperationCount"": 317971,
+ ""WriteOperationCount"": 725,
+ ""OtherOperationCount"": 12842036,
+ ""ReadTransferCount"": 16009069468,
+ ""WriteTransferCount"": 2123787,
+ ""OtherTransferCount"": 1163954182
+}","{
+ ""PageFaultCount"": 2071991,
+ ""PeakWorkingSetSize"": 391675904,
+ ""WorkingSetSize"": 310407168,
+ ""QuotaPeakPagedPoolUsage"": 1034496,
+ ""QuotaPagedPoolUsage"": 822912,
+ ""QuotaPeakNonPagedPoolUsage"": 234248,
+ ""QuotaNonPagedPoolUsage"": 226824,
+ ""PagefileUsage"": 368021504,
+ ""PeakPagefileUsage"": 413134848
+}",146524131328,false,2026-01-28T05:59:34.9224313Z,0001-01-01T00:00:00Z
+" 2792"," 724",vm3dservice.exe,3,NT AUTHORITY\SYSTEM,S-1-5-18,"""C:\Program Files\VMware\VMware Tools\vm3dservice.exe""",C:\Program Files\VMware\VMware Tools\vm3dservice.exe,true,2026-01-28T05:59:34.9520931Z,0.03125,0.046875,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 51,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 324
+}","{
+ ""PageFaultCount"": 1876,
+ ""PeakWorkingSetSize"": 6651904,
+ ""WorkingSetSize"": 6062080,
+ ""QuotaPeakPagedPoolUsage"": 80584,
+ ""QuotaPagedPoolUsage"": 78776,
+ ""QuotaPeakNonPagedPoolUsage"": 9768,
+ ""QuotaNonPagedPoolUsage"": 8080,
+ ""PagefileUsage"": 1605632,
+ ""PeakPagefileUsage"": 1777664
+}",723314532352,false,2026-01-28T05:59:34.9520931Z,0001-01-01T00:00:00Z
+" 2836"," 724",svchost.exe,6,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s LanmanServer,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:35.0375068Z,0.234375,0.796875,"{
+ ""ReadOperationCount"": 9395,
+ ""WriteOperationCount"": 8805,
+ ""OtherOperationCount"": 51669,
+ ""ReadTransferCount"": 787564,
+ ""WriteTransferCount"": 6311964,
+ ""OtherTransferCount"": 21098
+}","{
+ ""PageFaultCount"": 6992,
+ ""PeakWorkingSetSize"": 9908224,
+ ""WorkingSetSize"": 8781824,
+ ""QuotaPeakPagedPoolUsage"": 91536,
+ ""QuotaPagedPoolUsage"": 90000,
+ ""QuotaPeakNonPagedPoolUsage"": 14416,
+ ""QuotaNonPagedPoolUsage"": 12240,
+ ""PagefileUsage"": 2621440,
+ ""PeakPagefileUsage"": 2732032
+}",450347069440,false,2026-01-28T05:59:35.0375068Z,0001-01-01T00:00:00Z
+" 2896"," 724",svchost.exe,5,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\System32\svchost.exe -k NetSvcs -p -s iphlpsvc,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:35.9541276Z,0.03125,0.0625,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 1,
+ ""OtherOperationCount"": 281,
+ ""ReadTransferCount"": 116,
+ ""WriteTransferCount"": 160,
+ ""OtherTransferCount"": 4138
+}","{
+ ""PageFaultCount"": 3254,
+ ""PeakWorkingSetSize"": 11644928,
+ ""WorkingSetSize"": 9990144,
+ ""QuotaPeakPagedPoolUsage"": 103320,
+ ""QuotaPagedPoolUsage"": 102544,
+ ""QuotaPeakNonPagedPoolUsage"": 20320,
+ ""QuotaNonPagedPoolUsage"": 16784,
+ ""PagefileUsage"": 2838528,
+ ""PeakPagefileUsage"": 3559424
+}",799173451776,false,2026-01-28T05:59:35.9541276Z,0001-01-01T00:00:00Z
+" 2916"," 4820",notepad.exe,1,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Windows\system32\notepad.exe"" ",C:\Windows\System32\notepad.exe,false,2026-01-28T07:02:55.5301331Z,0.4375,0.53125,"{
+ ""ReadOperationCount"": 2,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 113,
+ ""ReadTransferCount"": 12191,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 142
+}","{
+ ""PageFaultCount"": 8775,
+ ""PeakWorkingSetSize"": 15831040,
+ ""WorkingSetSize"": 15773696,
+ ""QuotaPeakPagedPoolUsage"": 249520,
+ ""QuotaPagedPoolUsage"": 236784,
+ ""QuotaPeakNonPagedPoolUsage"": 14256,
+ ""QuotaNonPagedPoolUsage"": 13168,
+ ""PagefileUsage"": 2772992,
+ ""PeakPagefileUsage"": 3399680
+}",515790036992,false,2026-01-28T07:02:55.5301331Z,0001-01-01T00:00:00Z
+" 2936"," 4820",powershell.exe,10,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" ",C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,false,2026-01-28T07:03:26.2354881Z,0.9375,4.421875,"{
+ ""ReadOperationCount"": 150,
+ ""WriteOperationCount"": 111,
+ ""OtherOperationCount"": 7013,
+ ""ReadTransferCount"": 437962,
+ ""WriteTransferCount"": 6486956,
+ ""OtherTransferCount"": 605161
+}","{
+ ""PageFaultCount"": 50479,
+ ""PeakWorkingSetSize"": 106315776,
+ ""WorkingSetSize"": 105603072,
+ ""QuotaPeakPagedPoolUsage"": 574592,
+ ""QuotaPagedPoolUsage"": 547648,
+ ""QuotaPeakNonPagedPoolUsage"": 2213728,
+ ""QuotaNonPagedPoolUsage"": 38552,
+ ""PagefileUsage"": 83636224,
+ ""PeakPagefileUsage"": 84570112
+}",617160179712,false,2026-01-28T07:03:26.2354881Z,0001-01-01T00:00:00Z
+" 2964"," 724",svchost.exe,2,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\System32\svchost.exe -k LocalService -p -s WdiServiceHost,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:36.0959069Z,0,0,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 263,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 20086
+}","{
+ ""PageFaultCount"": 1991,
+ ""PeakWorkingSetSize"": 6086656,
+ ""WorkingSetSize"": 5423104,
+ ""QuotaPeakPagedPoolUsage"": 61984,
+ ""QuotaPagedPoolUsage"": 59936,
+ ""QuotaPeakNonPagedPoolUsage"": 8328,
+ ""QuotaNonPagedPoolUsage"": 7472,
+ ""PagefileUsage"": 1318912,
+ ""PeakPagefileUsage"": 1654784
+}",160301989888,false,2026-01-28T05:59:36.0959069Z,0001-01-01T00:00:00Z
+" 3004"," 2792",vm3dservice.exe,4,NT AUTHORITY\SYSTEM,S-1-5-18,"""C:\Program Files\VMware\VMware Tools\vm3dservice.exe"" -n",C:\Program Files\VMware\VMware Tools\vm3dservice.exe,true,2026-01-28T05:59:36.1539262Z,0.015625,0.1875,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 68,
+ ""ReadTransferCount"": 60,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 104
+}","{
+ ""PageFaultCount"": 2242,
+ ""PeakWorkingSetSize"": 7876608,
+ ""WorkingSetSize"": 7213056,
+ ""QuotaPeakPagedPoolUsage"": 184936,
+ ""QuotaPagedPoolUsage"": 182824,
+ ""QuotaPeakNonPagedPoolUsage"": 10664,
+ ""QuotaNonPagedPoolUsage"": 9848,
+ ""PagefileUsage"": 1978368,
+ ""PeakPagefileUsage"": 2158592
+}",703459627008,false,2026-01-28T05:59:36.1539262Z,0001-01-01T00:00:00Z
+" 3464"," 724",svchost.exe,2,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p,C:\Windows\System32\svchost.exe,true,2026-01-28T06:02:24.4815955Z,0.140625,0.1875,"{
+ ""ReadOperationCount"": 7,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 5390,
+ ""ReadTransferCount"": 7743,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 128672
+}","{
+ ""PageFaultCount"": 4190,
+ ""PeakWorkingSetSize"": 12468224,
+ ""WorkingSetSize"": 11939840,
+ ""QuotaPeakPagedPoolUsage"": 129104,
+ ""QuotaPagedPoolUsage"": 108488,
+ ""QuotaPeakNonPagedPoolUsage"": 14816,
+ ""QuotaNonPagedPoolUsage"": 11960,
+ ""PagefileUsage"": 2736128,
+ ""PeakPagefileUsage"": 3039232
+}",888329895936,false,2026-01-28T06:02:24.4815955Z,0001-01-01T00:00:00Z
+" 3516"," 1368",sihost.exe,10,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,sihost.exe,C:\Windows\System32\sihost.exe,false,2026-01-28T05:59:40.1175623Z,0.828125,1.21875,"{
+ ""ReadOperationCount"": 65,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 5054,
+ ""ReadTransferCount"": 266240,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 268942
+}","{
+ ""PageFaultCount"": 10895,
+ ""PeakWorkingSetSize"": 30158848,
+ ""WorkingSetSize"": 29700096,
+ ""QuotaPeakPagedPoolUsage"": 295544,
+ ""QuotaPagedPoolUsage"": 282008,
+ ""QuotaPeakNonPagedPoolUsage"": 22072,
+ ""QuotaNonPagedPoolUsage"": 20032,
+ ""PagefileUsage"": 7127040,
+ ""PeakPagefileUsage"": 7426048
+}",407773032448,false,2026-01-28T05:59:40.1175623Z,0001-01-01T00:00:00Z
+" 352"," 724",svchost.exe,4,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k DcomLaunch -p -s LSM,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:29.7035937Z,0.03125,0.109375,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 124,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 396
+}","{
+ ""PageFaultCount"": 3242,
+ ""PeakWorkingSetSize"": 10997760,
+ ""WorkingSetSize"": 10067968,
+ ""QuotaPeakPagedPoolUsage"": 127512,
+ ""QuotaPagedPoolUsage"": 125704,
+ ""QuotaPeakNonPagedPoolUsage"": 13128,
+ ""QuotaNonPagedPoolUsage"": 12064,
+ ""PagefileUsage"": 2580480,
+ ""PeakPagefileUsage"": 2924544
+}",133460520960,false,2026-01-28T05:59:29.7035937Z,0001-01-01T00:00:00Z
+" 3536"," 724",svchost.exe,3,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc,C:\Windows\System32\svchost.exe,false,2026-01-28T05:59:40.1266926Z,0,0.015625,"{
+ ""ReadOperationCount"": 71,
+ ""WriteOperationCount"": 8,
+ ""OtherOperationCount"": 340,
+ ""ReadTransferCount"": 231261,
+ ""WriteTransferCount"": 17628,
+ ""OtherTransferCount"": 3962
+}","{
+ ""PageFaultCount"": 4826,
+ ""PeakWorkingSetSize"": 17772544,
+ ""WorkingSetSize"": 14479360,
+ ""QuotaPeakPagedPoolUsage"": 173888,
+ ""QuotaPagedPoolUsage"": 171888,
+ ""QuotaPeakNonPagedPoolUsage"": 17760,
+ ""QuotaNonPagedPoolUsage"": 14584,
+ ""PagefileUsage"": 4055040,
+ ""PeakPagefileUsage"": 4653056
+}",770273083392,false,2026-01-28T05:59:40.1266926Z,0001-01-01T00:00:00Z
+" 3620"," 724",svchost.exe,3,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService,C:\Windows\System32\svchost.exe,false,2026-01-28T05:59:41.3001685Z,0.453125,0.15625,"{
+ ""ReadOperationCount"": 102,
+ ""WriteOperationCount"": 473,
+ ""OtherOperationCount"": 677,
+ ""ReadTransferCount"": 413796,
+ ""WriteTransferCount"": 972352,
+ ""OtherTransferCount"": 4980
+}","{
+ ""PageFaultCount"": 13363,
+ ""PeakWorkingSetSize"": 33869824,
+ ""WorkingSetSize"": 31830016,
+ ""QuotaPeakPagedPoolUsage"": 341776,
+ ""QuotaPagedPoolUsage"": 322384,
+ ""QuotaPeakNonPagedPoolUsage"": 22696,
+ ""QuotaNonPagedPoolUsage"": 19432,
+ ""PagefileUsage"": 7553024,
+ ""PeakPagefileUsage"": 8626176
+}",61370683392,false,2026-01-28T05:59:41.3001685Z,0001-01-01T00:00:00Z
+" 3648"," 864",SecurityHealthHost.exe,1,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\System32\SecurityHealthHost.exe {6CED0DAA-4CDE-49C9-BA3A-AE163DC3D7AF} -Embedding,C:\Windows\System32\SecurityHealthHost.exe,true,2026-01-28T07:02:49.0820751Z,0.015625,0,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 50,
+ ""ReadTransferCount"": 4540,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 228
+}","{
+ ""PageFaultCount"": 2245,
+ ""PeakWorkingSetSize"": 8753152,
+ ""WorkingSetSize"": 8691712,
+ ""QuotaPeakPagedPoolUsage"": 123184,
+ ""QuotaPagedPoolUsage"": 121632,
+ ""QuotaPeakNonPagedPoolUsage"": 9920,
+ ""QuotaNonPagedPoolUsage"": 8832,
+ ""PagefileUsage"": 1585152,
+ ""PeakPagefileUsage"": 1789952
+}",708686954496,false,2026-01-28T07:02:49.0820751Z,0001-01-01T00:00:00Z
+" 3720"," 724",dllhost.exe,10,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},C:\Windows\System32\dllhost.exe,true,2026-01-28T05:59:45.4740889Z,0.234375,0.140625,"{
+ ""ReadOperationCount"": 4156,
+ ""WriteOperationCount"": 7,
+ ""OtherOperationCount"": 243,
+ ""ReadTransferCount"": 2095493,
+ ""WriteTransferCount"": 3745,
+ ""OtherTransferCount"": 3712
+}","{
+ ""PageFaultCount"": 3975,
+ ""PeakWorkingSetSize"": 14766080,
+ ""WorkingSetSize"": 11223040,
+ ""QuotaPeakPagedPoolUsage"": 107712,
+ ""QuotaPagedPoolUsage"": 105984,
+ ""QuotaPeakNonPagedPoolUsage"": 16088,
+ ""QuotaNonPagedPoolUsage"": 14496,
+ ""PagefileUsage"": 3985408,
+ ""PeakPagefileUsage"": 4448256
+}",464124538880,false,2026-01-28T05:59:45.4740889Z,0001-01-01T00:00:00Z
+" 3736"," 724",svchost.exe,2,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s TokenBroker,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:44.6009009Z,0.140625,0.3125,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 2135,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 75104
+}","{
+ ""PageFaultCount"": 9397,
+ ""PeakWorkingSetSize"": 21524480,
+ ""WorkingSetSize"": 15450112,
+ ""QuotaPeakPagedPoolUsage"": 182544,
+ ""QuotaPagedPoolUsage"": 137912,
+ ""QuotaPeakNonPagedPoolUsage"": 15360,
+ ""QuotaNonPagedPoolUsage"": 12640,
+ ""PagefileUsage"": 3248128,
+ ""PeakPagefileUsage"": 3895296
+}",602449362944,false,2026-01-28T05:59:44.6009009Z,0001-01-01T00:00:00Z
+" 3752"," 724",svchost.exe,1,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\system32\svchost.exe -k LocalService -p -s DispBrokerDesktopSvc,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:42.1176659Z,0.015625,0.015625,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 49,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 174
+}","{
+ ""PageFaultCount"": 2069,
+ ""PeakWorkingSetSize"": 7946240,
+ ""WorkingSetSize"": 6987776,
+ ""QuotaPeakPagedPoolUsage"": 65528,
+ ""QuotaPagedPoolUsage"": 65528,
+ ""QuotaPeakNonPagedPoolUsage"": 9376,
+ ""QuotaNonPagedPoolUsage"": 8424,
+ ""PagefileUsage"": 1462272,
+ ""PeakPagefileUsage"": 1847296
+}",604868911104,false,2026-01-28T05:59:42.1176659Z,0001-01-01T00:00:00Z
+" 3804"," 1328",taskhostw.exe,4,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,taskhostw.exe,C:\Windows\System32\taskhostw.exe,false,2026-01-28T05:59:42.1931522Z,0.0625,0.140625,"{
+ ""ReadOperationCount"": 2,
+ ""WriteOperationCount"": 2,
+ ""OtherOperationCount"": 381,
+ ""ReadTransferCount"": 252,
+ ""WriteTransferCount"": 188,
+ ""OtherTransferCount"": 3184
+}","{
+ ""PageFaultCount"": 8533,
+ ""PeakWorkingSetSize"": 17170432,
+ ""WorkingSetSize"": 13279232,
+ ""QuotaPeakPagedPoolUsage"": 273304,
+ ""QuotaPagedPoolUsage"": 267456,
+ ""QuotaPeakNonPagedPoolUsage"": 21256,
+ ""QuotaNonPagedPoolUsage"": 19776,
+ ""PagefileUsage"": 4657152,
+ ""PeakPagefileUsage"": 5410816
+}",950234660864,false,2026-01-28T05:59:42.1931522Z,0001-01-01T00:00:00Z
+" 3880"," 1328",taskhostw.exe,6,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},C:\Windows\System32\taskhostw.exe,false,2026-01-28T05:59:42.2125812Z,0.359375,0.53125,"{
+ ""ReadOperationCount"": 27,
+ ""WriteOperationCount"": 109,
+ ""OtherOperationCount"": 1940,
+ ""ReadTransferCount"": 1884792,
+ ""WriteTransferCount"": 2371584,
+ ""OtherTransferCount"": 26494
+}","{
+ ""PageFaultCount"": 5828,
+ ""PeakWorkingSetSize"": 16318464,
+ ""WorkingSetSize"": 16166912,
+ ""QuotaPeakPagedPoolUsage"": 212920,
+ ""QuotaPagedPoolUsage"": 204280,
+ ""QuotaPeakNonPagedPoolUsage"": 31160,
+ ""QuotaNonPagedPoolUsage"": 29104,
+ ""PagefileUsage"": 6381568,
+ ""PeakPagefileUsage"": 6492160
+}",45146959872,false,2026-01-28T05:59:42.2125812Z,0001-01-01T00:00:00Z
+" 392"," 4",smss.exe,2,NT AUTHORITY\SYSTEM,S-1-5-18,\SystemRoot\System32\smss.exe,C:\Windows\System32\smss.exe,true,2026-01-28T05:59:22.5660573Z,0,0.078125,"{
+ ""ReadOperationCount"": 22,
+ ""WriteOperationCount"": 13,
+ ""OtherOperationCount"": 519,
+ ""ReadTransferCount"": 16804,
+ ""WriteTransferCount"": 24724,
+ ""OtherTransferCount"": 9156
+}","{
+ ""PageFaultCount"": 999,
+ ""PeakWorkingSetSize"": 1265664,
+ ""WorkingSetSize"": 950272,
+ ""QuotaPeakPagedPoolUsage"": 24376,
+ ""QuotaPagedPoolUsage"": 13280,
+ ""QuotaPeakNonPagedPoolUsage"": 8472,
+ ""QuotaNonPagedPoolUsage"": 3224,
+ ""PagefileUsage"": 1093632,
+ ""PeakPagefileUsage"": 1146880
+}",310625890304,false,2026-01-28T05:59:22.5660573Z,0001-01-01T00:00:00Z
+" 3936"," 1328",MicrosoftEdgeUpdate.exe,4,NT AUTHORITY\SYSTEM,S-1-5-18,"""C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe"" /c",C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,true,2026-01-28T05:59:42.2485223Z,0,0.0625,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 52,
+ ""OtherOperationCount"": 419,
+ ""ReadTransferCount"": 92,
+ ""WriteTransferCount"": 4976,
+ ""OtherTransferCount"": 3488
+}","{
+ ""PageFaultCount"": 4767,
+ ""PeakWorkingSetSize"": 11382784,
+ ""WorkingSetSize"": 4579328,
+ ""QuotaPeakPagedPoolUsage"": 119496,
+ ""QuotaPagedPoolUsage"": 111360,
+ ""QuotaPeakNonPagedPoolUsage"": 14928,
+ ""QuotaNonPagedPoolUsage"": 13568,
+ ""PagefileUsage"": 2822144,
+ ""PeakPagefileUsage"": 3190784
+}",48570368,true,2026-01-28T05:59:42.2485223Z,0001-01-01T00:00:00Z
+" 3956"," 864",SecHealthUI.exe,31,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Windows\SystemApps\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy\SecHealthUI.exe"" -ServerName:SecHealthUI.AppXep4x2tbtjws1v9qqs0rmb3hxykvkpqtn.mca",C:\Windows\SystemApps\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy\SecHealthUI.exe,false,2026-01-28T07:02:34.0873788Z,0.578125,0.546875,"{
+ ""ReadOperationCount"": 2,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 531,
+ ""ReadTransferCount"": 38077,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 3600
+}","{
+ ""PageFaultCount"": 22102,
+ ""PeakWorkingSetSize"": 77320192,
+ ""WorkingSetSize"": 46452736,
+ ""QuotaPeakPagedPoolUsage"": 869104,
+ ""QuotaPagedPoolUsage"": 706840,
+ ""QuotaPeakNonPagedPoolUsage"": 38936,
+ ""QuotaNonPagedPoolUsage"": 31184,
+ ""PagefileUsage"": 27746304,
+ ""PeakPagefileUsage"": 29917184
+}",835796537344,false,2026-01-28T07:02:34.0873788Z,0001-01-01T00:00:00Z
+" 3988"," 724",svchost.exe,3,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TabletInputService,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:42.5201729Z,0,0.015625,"{
+ ""ReadOperationCount"": 264,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 124,
+ ""ReadTransferCount"": 5392,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 3262
+}","{
+ ""PageFaultCount"": 2595,
+ ""PeakWorkingSetSize"": 8822784,
+ ""WorkingSetSize"": 7839744,
+ ""QuotaPeakPagedPoolUsage"": 75928,
+ ""QuotaPagedPoolUsage"": 75088,
+ ""QuotaPeakNonPagedPoolUsage"": 10592,
+ ""QuotaNonPagedPoolUsage"": 9640,
+ ""PagefileUsage"": 1863680,
+ ""PeakPagefileUsage"": 2125824
+}",377956352000,false,2026-01-28T05:59:42.5201729Z,0001-01-01T00:00:00Z
+" 4"," 0",System,118,,,,,false,2026-01-28T05:59:22.4970922Z,0,77.40625,"{
+ ""ReadOperationCount"": 271,
+ ""WriteOperationCount"": 1147,
+ ""OtherOperationCount"": 100991,
+ ""ReadTransferCount"": 568800,
+ ""WriteTransferCount"": 34448150,
+ ""OtherTransferCount"": 540109
+}","{
+ ""PageFaultCount"": 2554,
+ ""PeakWorkingSetSize"": 2560000,
+ ""WorkingSetSize"": 143360,
+ ""QuotaPeakPagedPoolUsage"": 0,
+ ""QuotaPagedPoolUsage"": 0,
+ ""QuotaPeakNonPagedPoolUsage"": 272,
+ ""QuotaNonPagedPoolUsage"": 272,
+ ""PagefileUsage"": 200704,
+ ""PeakPagefileUsage"": 221184
+}",0,false,2026-01-28T05:59:22.4970922Z,0001-01-01T00:00:00Z
+" 4020"," 3988",ctfmon.exe,10,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""ctfmon.exe""",C:\Windows\System32\ctfmon.exe,false,2026-01-28T05:59:42.5867814Z,0.859375,3.359375,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 6722,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 63038
+}","{
+ ""PageFaultCount"": 6296,
+ ""PeakWorkingSetSize"": 21024768,
+ ""WorkingSetSize"": 19619840,
+ ""QuotaPeakPagedPoolUsage"": 218904,
+ ""QuotaPagedPoolUsage"": 217120,
+ ""QuotaPeakNonPagedPoolUsage"": 17584,
+ ""QuotaNonPagedPoolUsage"": 17040,
+ ""PagefileUsage"": 4349952,
+ ""PeakPagefileUsage"": 4419584
+}",856856059904,false,2026-01-28T05:59:42.5867814Z,0001-01-01T00:00:00Z
+" 4248"," 724",svchost.exe,4,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s gpsvc,C:\Windows\System32\svchost.exe,true,2026-01-28T07:16:57.3038373Z,0,0.015625,"{
+ ""ReadOperationCount"": 3,
+ ""WriteOperationCount"": 2,
+ ""OtherOperationCount"": 87,
+ ""ReadTransferCount"": 4644,
+ ""WriteTransferCount"": 276,
+ ""OtherTransferCount"": 790
+}","{
+ ""PageFaultCount"": 2006,
+ ""PeakWorkingSetSize"": 7831552,
+ ""WorkingSetSize"": 7749632,
+ ""QuotaPeakPagedPoolUsage"": 73392,
+ ""QuotaPagedPoolUsage"": 72864,
+ ""QuotaPeakNonPagedPoolUsage"": 9712,
+ ""QuotaNonPagedPoolUsage"": 9032,
+ ""PagefileUsage"": 1765376,
+ ""PeakPagefileUsage"": 2039808
+}",1060415770624,false,2026-01-28T07:16:57.3038373Z,0001-01-01T00:00:00Z
+" 4284"," 724",svchost.exe,5,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\system32\svchost.exe -k LocalService -p -s CDPSvc,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:47.9665503Z,0.015625,0.109375,"{
+ ""ReadOperationCount"": 11,
+ ""WriteOperationCount"": 4,
+ ""OtherOperationCount"": 493,
+ ""ReadTransferCount"": 4850,
+ ""WriteTransferCount"": 4197,
+ ""OtherTransferCount"": 6414
+}","{
+ ""PageFaultCount"": 4633,
+ ""PeakWorkingSetSize"": 16654336,
+ ""WorkingSetSize"": 13807616,
+ ""QuotaPeakPagedPoolUsage"": 156448,
+ ""QuotaPagedPoolUsage"": 156256,
+ ""QuotaPeakNonPagedPoolUsage"": 21632,
+ ""QuotaNonPagedPoolUsage"": 19800,
+ ""PagefileUsage"": 3973120,
+ ""PeakPagefileUsage"": 4431872
+}",225461379072,false,2026-01-28T05:59:47.9665503Z,0001-01-01T00:00:00Z
+" 4316"," 724",SearchIndexer.exe,13,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\SearchIndexer.exe /Embedding,C:\Windows\System32\SearchIndexer.exe,true,2026-01-28T05:59:48.3419816Z,2.828125,2.078125,"{
+ ""ReadOperationCount"": 644,
+ ""WriteOperationCount"": 279,
+ ""OtherOperationCount"": 54500,
+ ""ReadTransferCount"": 4068488,
+ ""WriteTransferCount"": 765320,
+ ""OtherTransferCount"": 80641582
+}","{
+ ""PageFaultCount"": 22591,
+ ""PeakWorkingSetSize"": 36831232,
+ ""WorkingSetSize"": 34684928,
+ ""QuotaPeakPagedPoolUsage"": 246640,
+ ""QuotaPagedPoolUsage"": 246320,
+ ""QuotaPeakNonPagedPoolUsage"": 59440,
+ ""QuotaNonPagedPoolUsage"": 50680,
+ ""PagefileUsage"": 26001408,
+ ""PeakPagefileUsage"": 28278784
+}",1019308412928,false,2026-01-28T05:59:48.3419816Z,0001-01-01T00:00:00Z
+" 4340"," 724",msdtc.exe,9,NT AUTHORITY\NETWORK SERVICE,S-1-5-20,C:\Windows\System32\msdtc.exe,C:\Windows\System32\msdtc.exe,false,2026-01-28T05:59:48.385676Z,0.015625,0.078125,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 3,
+ ""OtherOperationCount"": 214,
+ ""ReadTransferCount"": 116,
+ ""WriteTransferCount"": 188576,
+ ""OtherTransferCount"": 1466
+}","{
+ ""PageFaultCount"": 3279,
+ ""PeakWorkingSetSize"": 11886592,
+ ""WorkingSetSize"": 7512064,
+ ""QuotaPeakPagedPoolUsage"": 92632,
+ ""QuotaPagedPoolUsage"": 92360,
+ ""QuotaPeakNonPagedPoolUsage"": 14312,
+ ""QuotaNonPagedPoolUsage"": 13360,
+ ""PagefileUsage"": 2793472,
+ ""PeakPagefileUsage"": 3837952
+}",378940252160,false,2026-01-28T05:59:48.385676Z,0001-01-01T00:00:00Z
+" 4372"," 864",dllhost.exe,4,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\DllHost.exe /Processid:{3EB3C877-1F16-487C-9050-104DBCD66683},C:\Windows\System32\dllhost.exe,true,2026-01-28T05:59:48.5127496Z,0.015625,0.03125,"{
+ ""ReadOperationCount"": 25,
+ ""WriteOperationCount"": 20,
+ ""OtherOperationCount"": 697,
+ ""ReadTransferCount"": 1605632,
+ ""WriteTransferCount"": 319488,
+ ""OtherTransferCount"": 20196
+}","{
+ ""PageFaultCount"": 3430,
+ ""PeakWorkingSetSize"": 11628544,
+ ""WorkingSetSize"": 10866688,
+ ""QuotaPeakPagedPoolUsage"": 114144,
+ ""QuotaPagedPoolUsage"": 112928,
+ ""QuotaPeakNonPagedPoolUsage"": 23744,
+ ""QuotaNonPagedPoolUsage"": 17264,
+ ""PagefileUsage"": 3301376,
+ ""PeakPagefileUsage"": 3608576
+}",520462864384,false,2026-01-28T05:59:48.5127496Z,0001-01-01T00:00:00Z
+" 464"," 652",dwm.exe,14,Window Manager\DWM-1,S-1-5-90-0-1,"""dwm.exe""",C:\Windows\System32\dwm.exe,false,2026-01-28T05:59:30.5164592Z,12.28125,10.515625,"{
+ ""ReadOperationCount"": 2,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 1714,
+ ""ReadTransferCount"": 109516,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 78394
+}","{
+ ""PageFaultCount"": 215663,
+ ""PeakWorkingSetSize"": 119377920,
+ ""WorkingSetSize"": 87183360,
+ ""QuotaPeakPagedPoolUsage"": 741720,
+ ""QuotaPagedPoolUsage"": 698032,
+ ""QuotaPeakNonPagedPoolUsage"": 55736,
+ ""QuotaNonPagedPoolUsage"": 48528,
+ ""PagefileUsage"": 82882560,
+ ""PeakPagefileUsage"": 103505920
+}",654229336064,false,2026-01-28T05:59:30.5164592Z,0001-01-01T00:00:00Z
+" 4708"," 6360",thorium.exe,45,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe"" --flag-switches-begin --flag-switches-end --do-not-de-elevate --single-argument https://admin:password@127.0.0.1:8889/",C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe,false,2026-01-28T06:01:50.36987Z,54.9375,38.78125,"{
+ ""ReadOperationCount"": 290009,
+ ""WriteOperationCount"": 204292,
+ ""OtherOperationCount"": 59864,
+ ""ReadTransferCount"": 350858099,
+ ""WriteTransferCount"": 319063128,
+ ""OtherTransferCount"": 3954313
+}","{
+ ""PageFaultCount"": 330474,
+ ""PeakWorkingSetSize"": 255418368,
+ ""WorkingSetSize"": 184057856,
+ ""QuotaPeakPagedPoolUsage"": 1364880,
+ ""QuotaPagedPoolUsage"": 1260040,
+ ""QuotaPeakNonPagedPoolUsage"": 92696,
+ ""QuotaNonPagedPoolUsage"": 63904,
+ ""PagefileUsage"": 89165824,
+ ""PeakPagefileUsage"": 125067264
+}",36388913152,false,2026-01-28T06:01:50.36987Z,0001-01-01T00:00:00Z
+" 4724"," 864",WmiPrvSE.exe,12,NT AUTHORITY\NETWORK SERVICE,S-1-5-20,C:\Windows\system32\wbem\wmiprvse.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,true,2026-01-28T05:59:51.7570377Z,1.6875,3.125,"{
+ ""ReadOperationCount"": 1805,
+ ""WriteOperationCount"": 1764,
+ ""OtherOperationCount"": 17266,
+ ""ReadTransferCount"": 4474028,
+ ""WriteTransferCount"": 172632,
+ ""OtherTransferCount"": 207382
+}","{
+ ""PageFaultCount"": 56491,
+ ""PeakWorkingSetSize"": 23691264,
+ ""WorkingSetSize"": 17211392,
+ ""QuotaPeakPagedPoolUsage"": 188976,
+ ""QuotaPagedPoolUsage"": 116824,
+ ""QuotaPeakNonPagedPoolUsage"": 22560,
+ ""QuotaNonPagedPoolUsage"": 16288,
+ ""PagefileUsage"": 9134080,
+ ""PeakPagefileUsage"": 12709888
+}",403533225984,false,2026-01-28T05:59:51.7570377Z,0001-01-01T00:00:00Z
+" 4820"," 4796",explorer.exe,53,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\Explorer.EXE,C:\Windows\explorer.exe,false,2026-01-28T05:59:52.3683228Z,53.171875,71.109375,"{
+ ""ReadOperationCount"": 3335,
+ ""WriteOperationCount"": 64,
+ ""OtherOperationCount"": 1428719,
+ ""ReadTransferCount"": 9317172,
+ ""WriteTransferCount"": 21954,
+ ""OtherTransferCount"": 92829077
+}","{
+ ""PageFaultCount"": 490725,
+ ""PeakWorkingSetSize"": 283549696,
+ ""WorkingSetSize"": 165408768,
+ ""QuotaPeakPagedPoolUsage"": 1313904,
+ ""QuotaPagedPoolUsage"": 1038256,
+ ""QuotaPeakNonPagedPoolUsage"": 158048,
+ ""QuotaNonPagedPoolUsage"": 86024,
+ ""PagefileUsage"": 74563584,
+ ""PeakPagefileUsage"": 188182528
+}",12365824,false,2026-01-28T05:59:52.3683228Z,0001-01-01T00:00:00Z
+" 488"," 724",svchost.exe,1,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s NcbService,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:30.5513293Z,0.046875,0.046875,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 198,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 5544
+}","{
+ ""PageFaultCount"": 3156,
+ ""PeakWorkingSetSize"": 10641408,
+ ""WorkingSetSize"": 9932800,
+ ""QuotaPeakPagedPoolUsage"": 92400,
+ ""QuotaPagedPoolUsage"": 90864,
+ ""QuotaPeakNonPagedPoolUsage"": 15848,
+ ""QuotaNonPagedPoolUsage"": 12448,
+ ""PagefileUsage"": 2277376,
+ ""PeakPagefileUsage"": 2703360
+}",180714811392,false,2026-01-28T05:59:30.5513293Z,0001-01-01T00:00:00Z
+" 4944"," 2936",splunkd.exe,6,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Users\Public\splunkd.exe"" -server http://192.168.100.12:8888 -group red ",C:\Users\Public\splunkd.exe,false,2026-01-28T07:03:39.187935Z,0.0625,0.125,"{
+ ""ReadOperationCount"": 15,
+ ""WriteOperationCount"": 1,
+ ""OtherOperationCount"": 1510,
+ ""ReadTransferCount"": 474,
+ ""WriteTransferCount"": 160,
+ ""OtherTransferCount"": 46582
+}","{
+ ""PageFaultCount"": 3387,
+ ""PeakWorkingSetSize"": 11636736,
+ ""WorkingSetSize"": 11632640,
+ ""QuotaPeakPagedPoolUsage"": 55344,
+ ""QuotaPagedPoolUsage"": 53280,
+ ""QuotaPeakNonPagedPoolUsage"": 13192,
+ ""QuotaNonPagedPoolUsage"": 11704,
+ ""PagefileUsage"": 16424960,
+ ""PeakPagefileUsage"": 16441344
+}",800929247232,false,2026-01-28T07:03:39.187935Z,0001-01-01T00:00:00Z
+" 4952"," 4944",conhost.exe,3,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,\??\C:\Windows\system32\conhost.exe 0x4,C:\Windows\System32\conhost.exe,false,2026-01-28T07:03:39.2023115Z,0.078125,0.015625,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 146,
+ ""ReadTransferCount"": 60,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 6002
+}","{
+ ""PageFaultCount"": 3420,
+ ""PeakWorkingSetSize"": 13512704,
+ ""WorkingSetSize"": 13496320,
+ ""QuotaPeakPagedPoolUsage"": 209376,
+ ""QuotaPagedPoolUsage"": 194816,
+ ""QuotaPeakNonPagedPoolUsage"": 10736,
+ ""QuotaNonPagedPoolUsage"": 9776,
+ ""PagefileUsage"": 6852608,
+ ""PeakPagefileUsage"": 6922240
+}",186434367488,false,2026-01-28T07:03:39.2023115Z,0001-01-01T00:00:00Z
+" 500"," 488",csrss.exe,11,NT AUTHORITY\SYSTEM,S-1-5-18,"%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16",C:\Windows\System32\csrss.exe,true,2026-01-28T05:59:25.6975361Z,0.125,0.375,"{
+ ""ReadOperationCount"": 253,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 4579,
+ ""ReadTransferCount"": 194058,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 124646
+}","{
+ ""PageFaultCount"": 2660,
+ ""PeakWorkingSetSize"": 5849088,
+ ""WorkingSetSize"": 5128192,
+ ""QuotaPeakPagedPoolUsage"": 242608,
+ ""QuotaPagedPoolUsage"": 219920,
+ ""QuotaPeakNonPagedPoolUsage"": 22904,
+ ""QuotaNonPagedPoolUsage"": 19504,
+ ""PagefileUsage"": 1937408,
+ ""PeakPagefileUsage"": 2342912
+}",744738275328,false,2026-01-28T05:59:25.6975361Z,0001-01-01T00:00:00Z
+" 5064"," 864",dllhost.exe,2,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},C:\Windows\System32\dllhost.exe,false,2026-01-28T06:12:01.737049Z,0.140625,0.328125,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 36,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 206
+}","{
+ ""PageFaultCount"": 3233,
+ ""PeakWorkingSetSize"": 8101888,
+ ""WorkingSetSize"": 7725056,
+ ""QuotaPeakPagedPoolUsage"": 105272,
+ ""QuotaPagedPoolUsage"": 101928,
+ ""QuotaPeakNonPagedPoolUsage"": 8968,
+ ""QuotaNonPagedPoolUsage"": 8016,
+ ""PagefileUsage"": 1667072,
+ ""PeakPagefileUsage"": 1777664
+}",899462610944,false,2026-01-28T06:12:01.737049Z,0001-01-01T00:00:00Z
+" 5152"," 2528",AggregatorHost.exe,3,NT AUTHORITY\SYSTEM,S-1-5-18,AggregatorHost.exe,C:\Windows\System32\AggregatorHost.exe,true,2026-01-28T05:59:58.0000767Z,0.59375,0.46875,"{
+ ""ReadOperationCount"": 187,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 166,
+ ""ReadTransferCount"": 90633080,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 5878
+}","{
+ ""PageFaultCount"": 75741,
+ ""PeakWorkingSetSize"": 19038208,
+ ""WorkingSetSize"": 6807552,
+ ""QuotaPeakPagedPoolUsage"": 76672,
+ ""QuotaPagedPoolUsage"": 53224,
+ ""QuotaPeakNonPagedPoolUsage"": 7608,
+ ""QuotaNonPagedPoolUsage"": 6928,
+ ""PagefileUsage"": 1871872,
+ ""PeakPagefileUsage"": 2576384
+}",980584980480,false,2026-01-28T05:59:58.0000767Z,0001-01-01T00:00:00Z
+" 5212"," 724",svchost.exe,9,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc,C:\Windows\System32\svchost.exe,false,2026-01-28T06:00:00.5266019Z,0.3125,0.484375,"{
+ ""ReadOperationCount"": 346,
+ ""WriteOperationCount"": 1,
+ ""OtherOperationCount"": 1708,
+ ""ReadTransferCount"": 97595,
+ ""WriteTransferCount"": 160,
+ ""OtherTransferCount"": 28846
+}","{
+ ""PageFaultCount"": 21921,
+ ""PeakWorkingSetSize"": 45547520,
+ ""WorkingSetSize"": 32825344,
+ ""QuotaPeakPagedPoolUsage"": 274600,
+ ""QuotaPagedPoolUsage"": 268232,
+ ""QuotaPeakNonPagedPoolUsage"": 24472,
+ ""QuotaNonPagedPoolUsage"": 23384,
+ ""PagefileUsage"": 7888896,
+ ""PeakPagefileUsage"": 24805376
+}",116232818688,false,2026-01-28T06:00:00.5266019Z,0001-01-01T00:00:00Z
+" 5296"," 2936",conhost.exe,3,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,\??\C:\Windows\system32\conhost.exe 0x4,C:\Windows\System32\conhost.exe,false,2026-01-28T07:03:26.8771321Z,0.0625,0.21875,"{
+ ""ReadOperationCount"": 15,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 3894,
+ ""ReadTransferCount"": 17668,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 224830
+}","{
+ ""PageFaultCount"": 4446,
+ ""PeakWorkingSetSize"": 17424384,
+ ""WorkingSetSize"": 17391616,
+ ""QuotaPeakPagedPoolUsage"": 262360,
+ ""QuotaPagedPoolUsage"": 245360,
+ ""QuotaPeakNonPagedPoolUsage"": 14944,
+ ""QuotaNonPagedPoolUsage"": 13992,
+ ""PagefileUsage"": 4583424,
+ ""PeakPagefileUsage"": 5681152
+}",1091080626176,false,2026-01-28T07:03:26.8771321Z,0001-01-01T00:00:00Z
+" 5396"," 864",RuntimeBroker.exe,8,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\System32\RuntimeBroker.exe -Embedding,C:\Windows\System32\RuntimeBroker.exe,false,2026-01-28T06:00:12.5983354Z,1.3125,1.703125,"{
+ ""ReadOperationCount"": 5138,
+ ""WriteOperationCount"": 4,
+ ""OtherOperationCount"": 12250,
+ ""ReadTransferCount"": 778605,
+ ""WriteTransferCount"": 568,
+ ""OtherTransferCount"": 343061
+}","{
+ ""PageFaultCount"": 37320,
+ ""PeakWorkingSetSize"": 54796288,
+ ""WorkingSetSize"": 50012160,
+ ""QuotaPeakPagedPoolUsage"": 648208,
+ ""QuotaPagedPoolUsage"": 501040,
+ ""QuotaPeakNonPagedPoolUsage"": 48560,
+ ""QuotaNonPagedPoolUsage"": 34096,
+ ""PagefileUsage"": 17457152,
+ ""PeakPagefileUsage"": 21966848
+}",379233665024,false,2026-01-28T06:00:12.5983354Z,0001-01-01T00:00:00Z
+" 5444"," 724",svchost.exe,5,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -s RmSvc,C:\Windows\System32\svchost.exe,true,2026-01-28T06:00:04.3428026Z,0.015625,0.015625,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 122,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 510
+}","{
+ ""PageFaultCount"": 2466,
+ ""PeakWorkingSetSize"": 9289728,
+ ""WorkingSetSize"": 7864320,
+ ""QuotaPeakPagedPoolUsage"": 78928,
+ ""QuotaPagedPoolUsage"": 77216,
+ ""QuotaPeakNonPagedPoolUsage"": 13392,
+ ""QuotaNonPagedPoolUsage"": 11280,
+ ""PagefileUsage"": 2035712,
+ ""PeakPagefileUsage"": 2703360
+}",454779457536,false,2026-01-28T06:00:04.3428026Z,0001-01-01T00:00:00Z
+" 5460"," 724",SecurityHealthService.exe,29,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\SecurityHealthService.exe,C:\Windows\System32\SecurityHealthService.exe,true,2026-01-28T06:02:27.2776214Z,0.140625,0.421875,"{
+ ""ReadOperationCount"": 3,
+ ""WriteOperationCount"": 1,
+ ""OtherOperationCount"": 1313,
+ ""ReadTransferCount"": 204999,
+ ""WriteTransferCount"": 4096,
+ ""OtherTransferCount"": 22594
+}","{
+ ""PageFaultCount"": 7038,
+ ""PeakWorkingSetSize"": 22237184,
+ ""WorkingSetSize"": 21843968,
+ ""QuotaPeakPagedPoolUsage"": 230496,
+ ""QuotaPagedPoolUsage"": 220728,
+ ""QuotaPeakNonPagedPoolUsage"": 23216,
+ ""QuotaNonPagedPoolUsage"": 22632,
+ ""PagefileUsage"": 7827456,
+ ""PeakPagefileUsage"": 7905280
+}",238803144704,false,2026-01-28T06:02:27.2776214Z,0001-01-01T00:00:00Z
+" 5476"," 724",svchost.exe,3,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s WdiSystemHost,C:\Windows\System32\svchost.exe,true,2026-01-28T06:01:42.0208563Z,0,0.0625,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 115,
+ ""ReadTransferCount"": 4726,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 702
+}","{
+ ""PageFaultCount"": 2654,
+ ""PeakWorkingSetSize"": 7405568,
+ ""WorkingSetSize"": 7098368,
+ ""QuotaPeakPagedPoolUsage"": 85192,
+ ""QuotaPagedPoolUsage"": 82704,
+ ""QuotaPeakNonPagedPoolUsage"": 10464,
+ ""QuotaNonPagedPoolUsage"": 9512,
+ ""PagefileUsage"": 1728512,
+ ""PeakPagefileUsage"": 2035712
+}",1036482568192,false,2026-01-28T06:01:42.0208563Z,0001-01-01T00:00:00Z
+" 5540"," 724",svchost.exe,4,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k WbioSvcGroup -s WbioSrvc,C:\Windows\System32\svchost.exe,true,2026-01-28T07:02:36.1121666Z,0.015625,0.03125,"{
+ ""ReadOperationCount"": 5,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 234,
+ ""ReadTransferCount"": 9663,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 2280
+}","{
+ ""PageFaultCount"": 4016,
+ ""PeakWorkingSetSize"": 14872576,
+ ""WorkingSetSize"": 12398592,
+ ""QuotaPeakPagedPoolUsage"": 123240,
+ ""QuotaPagedPoolUsage"": 107328,
+ ""QuotaPeakNonPagedPoolUsage"": 15552,
+ ""QuotaNonPagedPoolUsage"": 13400,
+ ""PagefileUsage"": 2846720,
+ ""PeakPagefileUsage"": 5480448
+}",1090243158016,false,2026-01-28T07:02:36.1121666Z,0001-01-01T00:00:00Z
+" 5592"," 724",svchost.exe,5,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation -p -s SSDPSRV,C:\Windows\System32\svchost.exe,false,2026-01-28T06:00:06.0449869Z,0.015625,0,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 351,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 14454
+}","{
+ ""PageFaultCount"": 2217,
+ ""PeakWorkingSetSize"": 8052736,
+ ""WorkingSetSize"": 7221248,
+ ""QuotaPeakPagedPoolUsage"": 81632,
+ ""QuotaPagedPoolUsage"": 81056,
+ ""QuotaPeakNonPagedPoolUsage"": 15936,
+ ""QuotaNonPagedPoolUsage"": 14624,
+ ""PagefileUsage"": 1941504,
+ ""PeakPagefileUsage"": 2334720
+}",492824895488,false,2026-01-28T06:00:06.0449869Z,0001-01-01T00:00:00Z
+" 5600"," 4708",thorium.exe,10,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe"" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --no-pre-read-main-dll --field-trial-handle=1980,i,9618310540848860198,12043710111697164074,262144 --variations-seed-version --mojo-platform-channel-handle=2372 /prefetch:8",C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe,false,2026-01-28T06:01:50.9337796Z,0.078125,0.03125,"{
+ ""ReadOperationCount"": 1479,
+ ""WriteOperationCount"": 1481,
+ ""OtherOperationCount"": 202,
+ ""ReadTransferCount"": 4005322,
+ ""WriteTransferCount"": 1566769,
+ ""OtherTransferCount"": 15298
+}","{
+ ""PageFaultCount"": 11927,
+ ""PeakWorkingSetSize"": 26714112,
+ ""WorkingSetSize"": 20889600,
+ ""QuotaPeakPagedPoolUsage"": 722488,
+ ""QuotaPagedPoolUsage"": 720728,
+ ""QuotaPeakNonPagedPoolUsage"": 16096,
+ ""QuotaNonPagedPoolUsage"": 14000,
+ ""PagefileUsage"": 9646080,
+ ""PeakPagefileUsage"": 13942784
+}",389036146688,false,2026-01-28T06:01:50.9337796Z,0001-01-01T00:00:00Z
+" 580"," 572",csrss.exe,12,NT AUTHORITY\SYSTEM,S-1-5-18,"%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16",C:\Windows\System32\csrss.exe,true,2026-01-28T05:59:26.569084Z,0.234375,13.4375,"{
+ ""ReadOperationCount"": 224264,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 13423,
+ ""ReadTransferCount"": 6152626,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 215676
+}","{
+ ""PageFaultCount"": 59802,
+ ""PeakWorkingSetSize"": 34156544,
+ ""WorkingSetSize"": 32120832,
+ ""QuotaPeakPagedPoolUsage"": 251568,
+ ""QuotaPagedPoolUsage"": 239016,
+ ""QuotaPeakNonPagedPoolUsage"": 24024,
+ ""QuotaNonPagedPoolUsage"": 19936,
+ ""PagefileUsage"": 3727360,
+ ""PeakPagefileUsage"": 11923456
+}",389956730880,false,2026-01-28T05:59:26.569084Z,0001-01-01T00:00:00Z
+" 5852"," 864",StartMenuExperienceHost.exe,7,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe"" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca",C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe,false,2026-01-28T06:00:10.4335974Z,0.734375,0.78125,"{
+ ""ReadOperationCount"": 17,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 1055,
+ ""ReadTransferCount"": 74080,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 8290
+}","{
+ ""PageFaultCount"": 34348,
+ ""PeakWorkingSetSize"": 70213632,
+ ""WorkingSetSize"": 65441792,
+ ""QuotaPeakPagedPoolUsage"": 914648,
+ ""QuotaPagedPoolUsage"": 601144,
+ ""QuotaPeakNonPagedPoolUsage"": 35808,
+ ""QuotaNonPagedPoolUsage"": 31592,
+ ""PagefileUsage"": 18296832,
+ ""PeakPagefileUsage"": 24842240
+}",418538967040,false,2026-01-28T06:00:10.4335974Z,0001-01-01T00:00:00Z
+" 5976"," 864",RuntimeBroker.exe,1,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\System32\RuntimeBroker.exe -Embedding,C:\Windows\System32\RuntimeBroker.exe,false,2026-01-28T06:00:11.6156772Z,0.421875,0.546875,"{
+ ""ReadOperationCount"": 45,
+ ""WriteOperationCount"": 1,
+ ""OtherOperationCount"": 4973,
+ ""ReadTransferCount"": 241694,
+ ""WriteTransferCount"": 160,
+ ""OtherTransferCount"": 76416
+}","{
+ ""PageFaultCount"": 17404,
+ ""PeakWorkingSetSize"": 35368960,
+ ""WorkingSetSize"": 31997952,
+ ""QuotaPeakPagedPoolUsage"": 313360,
+ ""QuotaPagedPoolUsage"": 254912,
+ ""QuotaPeakNonPagedPoolUsage"": 27392,
+ ""QuotaNonPagedPoolUsage"": 21480,
+ ""PagefileUsage"": 7348224,
+ ""PeakPagefileUsage"": 9760768
+}",787548602368,false,2026-01-28T06:00:11.6156772Z,0001-01-01T00:00:00Z
+" 604"," 488",wininit.exe,1,NT AUTHORITY\SYSTEM,S-1-5-18,wininit.exe,C:\Windows\System32\wininit.exe,true,2026-01-28T05:59:26.5799851Z,0,0.09375,"{
+ ""ReadOperationCount"": 2,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 525,
+ ""ReadTransferCount"": 9732,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 4430
+}","{
+ ""PageFaultCount"": 2233,
+ ""PeakWorkingSetSize"": 7495680,
+ ""WorkingSetSize"": 6209536,
+ ""QuotaPeakPagedPoolUsage"": 91416,
+ ""QuotaPagedPoolUsage"": 77888,
+ ""QuotaPeakNonPagedPoolUsage"": 13600,
+ ""QuotaNonPagedPoolUsage"": 11240,
+ ""PagefileUsage"": 1449984,
+ ""PeakPagefileUsage"": 2002944
+}",1087010426880,false,2026-01-28T05:59:26.5799851Z,0001-01-01T00:00:00Z
+" 6172"," 864",dllhost.exe,5,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F},C:\Windows\System32\dllhost.exe,false,2026-01-28T06:09:40.212553Z,0.0625,0.140625,"{
+ ""ReadOperationCount"": 133,
+ ""WriteOperationCount"": 147,
+ ""OtherOperationCount"": 2922,
+ ""ReadTransferCount"": 9347377,
+ ""WriteTransferCount"": 2011136,
+ ""OtherTransferCount"": 61704
+}","{
+ ""PageFaultCount"": 7292,
+ ""PeakWorkingSetSize"": 15208448,
+ ""WorkingSetSize"": 12730368,
+ ""QuotaPeakPagedPoolUsage"": 158336,
+ ""QuotaPagedPoolUsage"": 153856,
+ ""QuotaPeakNonPagedPoolUsage"": 39184,
+ ""QuotaNonPagedPoolUsage"": 17672,
+ ""PagefileUsage"": 4231168,
+ ""PeakPagefileUsage"": 7151616
+}",812044877824,false,2026-01-28T06:09:40.212553Z,0001-01-01T00:00:00Z
+" 6332"," 724",svchost.exe,1,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s lfsvc,C:\Windows\System32\svchost.exe,true,2026-01-28T06:00:14.4295624Z,0.03125,0.03125,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 196,
+ ""ReadTransferCount"": 8085,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 442
+}","{
+ ""PageFaultCount"": 4163,
+ ""PeakWorkingSetSize"": 13189120,
+ ""WorkingSetSize"": 12509184,
+ ""QuotaPeakPagedPoolUsage"": 131960,
+ ""QuotaPagedPoolUsage"": 128576,
+ ""QuotaPeakNonPagedPoolUsage"": 14608,
+ ""QuotaNonPagedPoolUsage"": 12568,
+ ""PagefileUsage"": 2527232,
+ ""PeakPagefileUsage"": 3121152
+}",178338242560,false,2026-01-28T06:00:14.4295624Z,0001-01-01T00:00:00Z
+" 6516"," 864",RuntimeBroker.exe,1,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\System32\RuntimeBroker.exe -Embedding,C:\Windows\System32\RuntimeBroker.exe,false,2026-01-28T06:00:14.8754831Z,0.84375,2.828125,"{
+ ""ReadOperationCount"": 11095,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 20404,
+ ""ReadTransferCount"": 3682887,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 234328
+}","{
+ ""PageFaultCount"": 18457,
+ ""PeakWorkingSetSize"": 30392320,
+ ""WorkingSetSize"": 24989696,
+ ""QuotaPeakPagedPoolUsage"": 338024,
+ ""QuotaPagedPoolUsage"": 225624,
+ ""QuotaPeakNonPagedPoolUsage"": 25696,
+ ""QuotaNonPagedPoolUsage"": 19440,
+ ""PagefileUsage"": 6156288,
+ ""PeakPagefileUsage"": 8282112
+}",909110329344,false,2026-01-28T06:00:14.8754831Z,0001-01-01T00:00:00Z
+" 652"," 572",winlogon.exe,3,NT AUTHORITY\SYSTEM,S-1-5-18,winlogon.exe,C:\Windows\System32\winlogon.exe,true,2026-01-28T05:59:26.677282Z,0.078125,0.15625,"{
+ ""ReadOperationCount"": 4,
+ ""WriteOperationCount"": 1,
+ ""OtherOperationCount"": 415,
+ ""ReadTransferCount"": 9988,
+ ""WriteTransferCount"": 160,
+ ""OtherTransferCount"": 200484
+}","{
+ ""PageFaultCount"": 15760,
+ ""PeakWorkingSetSize"": 19505152,
+ ""WorkingSetSize"": 10756096,
+ ""QuotaPeakPagedPoolUsage"": 192512,
+ ""QuotaPagedPoolUsage"": 148864,
+ ""QuotaPeakNonPagedPoolUsage"": 15624,
+ ""QuotaNonPagedPoolUsage"": 13704,
+ ""PagefileUsage"": 3760128,
+ ""PeakPagefileUsage"": 6721536
+}",514408345600,false,2026-01-28T05:59:26.677282Z,0001-01-01T00:00:00Z
+" 6664"," 864",LockApp.exe,13,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe"" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca",C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe,false,2026-01-28T06:00:15.641117Z,0.359375,0.359375,"{
+ ""ReadOperationCount"": 25,
+ ""WriteOperationCount"": 13,
+ ""OtherOperationCount"": 1221,
+ ""ReadTransferCount"": 66392,
+ ""WriteTransferCount"": 194392,
+ ""OtherTransferCount"": 147699
+}","{
+ ""PageFaultCount"": 17702,
+ ""PeakWorkingSetSize"": 66191360,
+ ""WorkingSetSize"": 47763456,
+ ""QuotaPeakPagedPoolUsage"": 693184,
+ ""QuotaPagedPoolUsage"": 540816,
+ ""QuotaPeakNonPagedPoolUsage"": 75068,
+ ""QuotaNonPagedPoolUsage"": 37648,
+ ""PagefileUsage"": 20979712,
+ ""PeakPagefileUsage"": 22102016
+}",1054871736320,false,2026-01-28T06:00:15.641117Z,0001-01-01T00:00:00Z
+" 6684"," 864",ShellExperienceHost.exe,10,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe,false,2026-01-28T07:02:52.9223145Z,0.265625,0.171875,"{
+ ""ReadOperationCount"": 5,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 673,
+ ""ReadTransferCount"": 44296,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 7080
+}","{
+ ""PageFaultCount"": 14500,
+ ""PeakWorkingSetSize"": 54267904,
+ ""WorkingSetSize"": 48705536,
+ ""QuotaPeakPagedPoolUsage"": 508928,
+ ""QuotaPagedPoolUsage"": 486056,
+ ""QuotaPeakNonPagedPoolUsage"": 30584,
+ ""QuotaNonPagedPoolUsage"": 26560,
+ ""PagefileUsage"": 15757312,
+ ""PeakPagefileUsage"": 16515072
+}",825937059840,false,2026-01-28T07:02:52.9223145Z,0001-01-01T00:00:00Z
+" 6804"," 724",svchost.exe,3,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k netsvcs -p -s seclogon,C:\Windows\System32\svchost.exe,true,2026-01-28T06:01:50.2281436Z,0.015625,0.015625,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 62,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 786
+}","{
+ ""PageFaultCount"": 1868,
+ ""PeakWorkingSetSize"": 6770688,
+ ""WorkingSetSize"": 6250496,
+ ""QuotaPeakPagedPoolUsage"": 75424,
+ ""QuotaPagedPoolUsage"": 61024,
+ ""QuotaPeakNonPagedPoolUsage"": 9448,
+ ""QuotaNonPagedPoolUsage"": 7744,
+ ""PagefileUsage"": 1372160,
+ ""PeakPagefileUsage"": 1585152
+}",912511741952,false,2026-01-28T06:01:50.2281436Z,0001-01-01T00:00:00Z
+" 6824"," 864",RuntimeBroker.exe,2,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\System32\RuntimeBroker.exe -Embedding,C:\Windows\System32\RuntimeBroker.exe,false,2026-01-28T06:00:16.54239Z,0.140625,0.203125,"{
+ ""ReadOperationCount"": 2,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 773,
+ ""ReadTransferCount"": 41995,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 10686
+}","{
+ ""PageFaultCount"": 11654,
+ ""PeakWorkingSetSize"": 38842368,
+ ""WorkingSetSize"": 29577216,
+ ""QuotaPeakPagedPoolUsage"": 345024,
+ ""QuotaPagedPoolUsage"": 278264,
+ ""QuotaPeakNonPagedPoolUsage"": 24792,
+ ""QuotaNonPagedPoolUsage"": 19488,
+ ""PagefileUsage"": 5455872,
+ ""PeakPagefileUsage"": 9437184
+}",73751465984,false,2026-01-28T06:00:16.54239Z,0001-01-01T00:00:00Z
+" 7008"," 724",svchost.exe,2,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\system32\svchost.exe -k LocalService -p -s BthAvctpSvc,C:\Windows\System32\svchost.exe,true,2026-01-28T06:00:17.7548387Z,0.015625,0.015625,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 71,
+ ""ReadTransferCount"": 5833,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 638
+}","{
+ ""PageFaultCount"": 3758,
+ ""PeakWorkingSetSize"": 12255232,
+ ""WorkingSetSize"": 11067392,
+ ""QuotaPeakPagedPoolUsage"": 83208,
+ ""QuotaPagedPoolUsage"": 83192,
+ ""QuotaPeakNonPagedPoolUsage"": 10888,
+ ""QuotaNonPagedPoolUsage"": 9528,
+ ""PagefileUsage"": 1785856,
+ ""PeakPagefileUsage"": 2273280
+}",1057851973632,false,2026-01-28T06:00:17.7548387Z,0001-01-01T00:00:00Z
+" 7140"," 864",TextInputHost.exe,10,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe"" -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca",C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe,false,2026-01-28T06:00:19.4443895Z,0.234375,0.53125,"{
+ ""ReadOperationCount"": 2,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 512,
+ ""ReadTransferCount"": 25793,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 2998
+}","{
+ ""PageFaultCount"": 12253,
+ ""PeakWorkingSetSize"": 43470848,
+ ""WorkingSetSize"": 39460864,
+ ""QuotaPeakPagedPoolUsage"": 464328,
+ ""QuotaPagedPoolUsage"": 452672,
+ ""QuotaPeakNonPagedPoolUsage"": 25408,
+ ""QuotaNonPagedPoolUsage"": 23368,
+ ""PagefileUsage"": 13103104,
+ ""PeakPagefileUsage"": 13344768
+}",989339439104,false,2026-01-28T06:00:19.4443895Z,0001-01-01T00:00:00Z
+" 724"," 604",services.exe,7,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\services.exe,C:\Windows\System32\services.exe,true,2026-01-28T05:59:27.0840714Z,0.359375,0.9375,"{
+ ""ReadOperationCount"": 3,
+ ""WriteOperationCount"": 1,
+ ""OtherOperationCount"": 4728,
+ ""ReadTransferCount"": 8308,
+ ""WriteTransferCount"": 160,
+ ""OtherTransferCount"": 77994
+}","{
+ ""PageFaultCount"": 5460,
+ ""PeakWorkingSetSize"": 10391552,
+ ""WorkingSetSize"": 9146368,
+ ""QuotaPeakPagedPoolUsage"": 910240,
+ ""QuotaPagedPoolUsage"": 157568,
+ ""QuotaPeakNonPagedPoolUsage"": 15440,
+ ""QuotaNonPagedPoolUsage"": 11800,
+ ""PagefileUsage"": 5132288,
+ ""PeakPagefileUsage"": 6459392
+}",53833228288,false,2026-01-28T05:59:27.0840714Z,0001-01-01T00:00:00Z
+" 7248"," 2088",conhost.exe,3,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,\??\C:\Windows\system32\conhost.exe 0x4,C:\Windows\System32\conhost.exe,true,2026-01-28T06:01:43.4258974Z,0.890625,2.953125,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 81010,
+ ""ReadTransferCount"": 60,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 5694446
+}","{
+ ""PageFaultCount"": 5918,
+ ""PeakWorkingSetSize"": 17784832,
+ ""WorkingSetSize"": 17059840,
+ ""QuotaPeakPagedPoolUsage"": 300184,
+ ""QuotaPagedPoolUsage"": 216000,
+ ""QuotaPeakNonPagedPoolUsage"": 14192,
+ ""QuotaNonPagedPoolUsage"": 12632,
+ ""PagefileUsage"": 7503872,
+ ""PeakPagefileUsage"": 8441856
+}",52567625728,false,2026-01-28T06:01:43.4258974Z,0001-01-01T00:00:00Z
+" 7260"," 1328",taskhostw.exe,3,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,taskhostw.exe,C:\Windows\System32\taskhostw.exe,true,2026-01-28T07:02:32.1658686Z,0,0.015625,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 55,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 460
+}","{
+ ""PageFaultCount"": 2069,
+ ""PeakWorkingSetSize"": 8032256,
+ ""WorkingSetSize"": 7979008,
+ ""QuotaPeakPagedPoolUsage"": 139392,
+ ""QuotaPagedPoolUsage"": 137632,
+ ""QuotaPeakNonPagedPoolUsage"": 10736,
+ ""QuotaNonPagedPoolUsage"": 10056,
+ ""PagefileUsage"": 1691648,
+ ""PeakPagefileUsage"": 2031616
+}",514654793728,false,2026-01-28T07:02:32.1658686Z,0001-01-01T00:00:00Z
+" 7404"," 4820",vmtoolsd.exe,5,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"" -n vmusr",C:\Program Files\VMware\VMware Tools\vmtoolsd.exe,false,2026-01-28T06:00:27.2841295Z,0.359375,0.546875,"{
+ ""ReadOperationCount"": 323,
+ ""WriteOperationCount"": 184,
+ ""OtherOperationCount"": 2541,
+ ""ReadTransferCount"": 14367,
+ ""WriteTransferCount"": 19392,
+ ""OtherTransferCount"": 3672
+}","{
+ ""PageFaultCount"": 7827,
+ ""PeakWorkingSetSize"": 25653248,
+ ""WorkingSetSize"": 16310272,
+ ""QuotaPeakPagedPoolUsage"": 248056,
+ ""QuotaPagedPoolUsage"": 246312,
+ ""QuotaPeakNonPagedPoolUsage"": 19432,
+ ""QuotaNonPagedPoolUsage"": 18728,
+ ""PagefileUsage"": 5660672,
+ ""PeakPagefileUsage"": 14958592
+}",1000739504128,false,2026-01-28T06:00:27.2841295Z,0001-01-01T00:00:00Z
+" 744"," 604",lsass.exe,10,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\lsass.exe,C:\Windows\System32\lsass.exe,true,2026-01-28T05:59:27.2013528Z,9.375,8.375,"{
+ ""ReadOperationCount"": 834,
+ ""WriteOperationCount"": 647,
+ ""OtherOperationCount"": 141439,
+ ""ReadTransferCount"": 93119,
+ ""WriteTransferCount"": 186070,
+ ""OtherTransferCount"": 5976966
+}","{
+ ""PageFaultCount"": 8919,
+ ""PeakWorkingSetSize"": 20869120,
+ ""WorkingSetSize"": 20361216,
+ ""QuotaPeakPagedPoolUsage"": 204128,
+ ""QuotaPagedPoolUsage"": 200824,
+ ""QuotaPeakNonPagedPoolUsage"": 30968,
+ ""QuotaNonPagedPoolUsage"": 27880,
+ ""PagefileUsage"": 8163328,
+ ""PeakPagefileUsage"": 8519680
+}",10518056960,false,2026-01-28T05:59:27.2013528Z,0001-01-01T00:00:00Z
+" 7480"," 864",RuntimeBroker.exe,2,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\System32\RuntimeBroker.exe -Embedding,C:\Windows\System32\RuntimeBroker.exe,false,2026-01-28T07:02:53.4841399Z,0.125,0.046875,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 389,
+ ""ReadTransferCount"": 23547,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 6408
+}","{
+ ""PageFaultCount"": 4864,
+ ""PeakWorkingSetSize"": 19144704,
+ ""WorkingSetSize"": 17403904,
+ ""QuotaPeakPagedPoolUsage"": 190920,
+ ""QuotaPagedPoolUsage"": 168696,
+ ""QuotaPeakNonPagedPoolUsage"": 13824,
+ ""QuotaNonPagedPoolUsage"": 11280,
+ ""PagefileUsage"": 2650112,
+ ""PeakPagefileUsage"": 3616768
+}",169058168832,false,2026-01-28T07:02:53.4841399Z,0001-01-01T00:00:00Z
+" 7660"," 724",svchost.exe,9,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s PcaSvc,C:\Windows\System32\svchost.exe,true,2026-01-28T06:01:42.0445502Z,0.171875,0.25,"{
+ ""ReadOperationCount"": 2,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 2566,
+ ""ReadTransferCount"": 69976,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 94654
+}","{
+ ""PageFaultCount"": 26433,
+ ""PeakWorkingSetSize"": 43180032,
+ ""WorkingSetSize"": 11214848,
+ ""QuotaPeakPagedPoolUsage"": 269000,
+ ""QuotaPagedPoolUsage"": 113064,
+ ""QuotaPeakNonPagedPoolUsage"": 16120,
+ ""QuotaNonPagedPoolUsage"": 13272,
+ ""PagefileUsage"": 4763648,
+ ""PeakPagefileUsage"": 8552448
+}",143921696768,false,2026-01-28T06:01:42.0445502Z,0001-01-01T00:00:00Z
+" 7748"," 724",svchost.exe,5,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\System32\svchost.exe -k LocalService -p -s LicenseManager,C:\Windows\System32\svchost.exe,true,2026-01-28T06:02:00.5594898Z,0.046875,0.03125,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 80,
+ ""ReadTransferCount"": 12646,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 538
+}","{
+ ""PageFaultCount"": 2990,
+ ""PeakWorkingSetSize"": 10502144,
+ ""WorkingSetSize"": 9908224,
+ ""QuotaPeakPagedPoolUsage"": 81536,
+ ""QuotaPagedPoolUsage"": 81440,
+ ""QuotaPeakNonPagedPoolUsage"": 11072,
+ ""QuotaNonPagedPoolUsage"": 10256,
+ ""PagefileUsage"": 2060288,
+ ""PeakPagefileUsage"": 2396160
+}",130310090752,false,2026-01-28T06:02:00.5594898Z,0001-01-01T00:00:00Z
+" 7808"," 4708",thorium.exe,6,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe --type=crashpad-handler ""--user-data-dir=C:\Users\dev\AppData\Local\Thorium\User Data"" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler ""--database=C:\Users\dev\AppData\Local\Thorium\User Data\Crashpad"" --annotation=plat=Win64 --annotation=prod=Thorium --annotation=ver=138.0.7204.300 --initial-client-data=0x12c,0x130,0x134,0x108,0x138,0x7ff8d4cb7d68,0x7ff8d4cb7d78,0x7ff8d4cb7d88",C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe,false,2026-01-28T06:01:50.3844126Z,0.015625,0.03125,"{
+ ""ReadOperationCount"": 54,
+ ""WriteOperationCount"": 54,
+ ""OtherOperationCount"": 252,
+ ""ReadTransferCount"": 1944,
+ ""WriteTransferCount"": 648,
+ ""OtherTransferCount"": 1250
+}","{
+ ""PageFaultCount"": 2477,
+ ""PeakWorkingSetSize"": 8130560,
+ ""WorkingSetSize"": 7512064,
+ ""QuotaPeakPagedPoolUsage"": 133912,
+ ""QuotaPagedPoolUsage"": 133112,
+ ""QuotaPeakNonPagedPoolUsage"": 9240,
+ ""QuotaNonPagedPoolUsage"": 8696,
+ ""PagefileUsage"": 2162688,
+ ""PeakPagefileUsage"": 2211840
+}",981617709056,false,2026-01-28T06:01:50.3844126Z,0001-01-01T00:00:00Z
+" 7828"," 864",ApplicationFrameHost.exe,4,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\system32\ApplicationFrameHost.exe -Embedding,C:\Windows\System32\ApplicationFrameHost.exe,false,2026-01-28T06:00:59.9981914Z,0.078125,0.4375,"{
+ ""ReadOperationCount"": 26,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 332,
+ ""ReadTransferCount"": 32538,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 3518
+}","{
+ ""PageFaultCount"": 26893,
+ ""PeakWorkingSetSize"": 62160896,
+ ""WorkingSetSize"": 50720768,
+ ""QuotaPeakPagedPoolUsage"": 476568,
+ ""QuotaPagedPoolUsage"": 458200,
+ ""QuotaPeakNonPagedPoolUsage"": 33448,
+ ""QuotaNonPagedPoolUsage"": 31136,
+ ""PagefileUsage"": 21368832,
+ ""PeakPagefileUsage"": 41971712
+}",506489987072,false,2026-01-28T06:00:59.9981914Z,0001-01-01T00:00:00Z
+" 7852"," 864",WinStore.App.exe,11,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\WinStore.App.exe"" -ServerName:App.AppXc75wvwned5vhz4xyxxecvgdjhdkgsdza.mca",C:\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\WinStore.App.exe,false,2026-01-28T06:01:00.0015594Z,0.09375,0.09375,"{
+ ""ReadOperationCount"": 2,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 987,
+ ""ReadTransferCount"": 8192,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 9888
+}","{
+ ""PageFaultCount"": 13362,
+ ""PeakWorkingSetSize"": 53432320,
+ ""WorkingSetSize"": 1404928,
+ ""QuotaPeakPagedPoolUsage"": 509632,
+ ""QuotaPagedPoolUsage"": 506176,
+ ""QuotaPeakNonPagedPoolUsage"": 38488,
+ ""QuotaNonPagedPoolUsage"": 37808,
+ ""PagefileUsage"": 19673088,
+ ""PeakPagefileUsage"": 19894272
+}",490361794560,false,2026-01-28T06:01:00.0015594Z,0001-01-01T00:00:00Z
+" 7912"," 724",svchost.exe,8,NT AUTHORITY\LOCAL SERVICE,S-1-5-19,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s wscsvc,C:\Windows\System32\svchost.exe,true,2026-01-28T06:02:24.9156094Z,0.109375,0.046875,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 666,
+ ""ReadTransferCount"": 6029,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 542
+}","{
+ ""PageFaultCount"": 4343,
+ ""PeakWorkingSetSize"": 11837440,
+ ""WorkingSetSize"": 10801152,
+ ""QuotaPeakPagedPoolUsage"": 85520,
+ ""QuotaPagedPoolUsage"": 84296,
+ ""QuotaPeakNonPagedPoolUsage"": 13952,
+ ""QuotaNonPagedPoolUsage"": 13136,
+ ""PagefileUsage"": 3198976,
+ ""PeakPagefileUsage"": 3563520
+}",543327100928,false,2026-01-28T06:02:24.9156094Z,0001-01-01T00:00:00Z
+" 7980"," 4708",thorium.exe,16,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe"" --type=renderer --no-pre-read-main-dll --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1769579956299326 --launch-time-ticks=155163348 --field-trial-handle=1980,i,9618310540848860198,12043710111697164074,262144 --variations-seed-version --mojo-platform-channel-handle=3464 /prefetch:1",C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe,false,2026-01-28T06:01:51.4637622Z,49.578125,13.28125,"{
+ ""ReadOperationCount"": 123014,
+ ""WriteOperationCount"": 133776,
+ ""OtherOperationCount"": 162,
+ ""ReadTransferCount"": 20681792,
+ ""WriteTransferCount"": 328243774,
+ ""OtherTransferCount"": 13310
+}","{
+ ""PageFaultCount"": 451484,
+ ""PeakWorkingSetSize"": 287174656,
+ ""WorkingSetSize"": 270229504,
+ ""QuotaPeakPagedPoolUsage"": 853096,
+ ""QuotaPagedPoolUsage"": 790704,
+ ""QuotaPeakNonPagedPoolUsage"": 60056,
+ ""QuotaNonPagedPoolUsage"": 39576,
+ ""PagefileUsage"": 187080704,
+ ""PeakPagefileUsage"": 187740160
+}",813390934016,false,2026-01-28T06:01:51.4637622Z,0001-01-01T00:00:00Z
+" 8000"," 4708",thorium.exe,19,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe"" --type=gpu-process --no-pre-read-main-dll --start-stack-profiler --gpu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=1980,i,9618310540848860198,12043710111697164074,262144 --variations-seed-version --mojo-platform-channel-handle=1976 /prefetch:2",C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe,false,2026-01-28T06:01:50.5538308Z,26.4375,58.125,"{
+ ""ReadOperationCount"": 99539,
+ ""WriteOperationCount"": 96816,
+ ""OtherOperationCount"": 469,
+ ""ReadTransferCount"": 572771874,
+ ""WriteTransferCount"": 11566672,
+ ""OtherTransferCount"": 21746
+}","{
+ ""PageFaultCount"": 3165010,
+ ""PeakWorkingSetSize"": 118341632,
+ ""WorkingSetSize"": 64040960,
+ ""QuotaPeakPagedPoolUsage"": 987120,
+ ""QuotaPagedPoolUsage"": 881920,
+ ""QuotaPeakNonPagedPoolUsage"": 64968,
+ ""QuotaNonPagedPoolUsage"": 36368,
+ ""PagefileUsage"": 18505728,
+ ""PeakPagefileUsage"": 41410560
+}",748885749760,false,2026-01-28T06:01:50.5538308Z,0001-01-01T00:00:00Z
+" 8064"," 864",RuntimeBroker.exe,1,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,C:\Windows\System32\RuntimeBroker.exe -Embedding,C:\Windows\System32\RuntimeBroker.exe,false,2026-01-28T06:01:05.2789185Z,0.015625,0,"{
+ ""ReadOperationCount"": 1,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 81,
+ ""ReadTransferCount"": 4917,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 900
+}","{
+ ""PageFaultCount"": 2256,
+ ""PeakWorkingSetSize"": 8335360,
+ ""WorkingSetSize"": 7626752,
+ ""QuotaPeakPagedPoolUsage"": 117720,
+ ""QuotaPagedPoolUsage"": 117224,
+ ""QuotaPeakNonPagedPoolUsage"": 9512,
+ ""QuotaNonPagedPoolUsage"": 8696,
+ ""PagefileUsage"": 1638400,
+ ""PeakPagefileUsage"": 2064384
+}",970691612672,false,2026-01-28T06:01:05.2789185Z,0001-01-01T00:00:00Z
+" 8140"," 4708",thorium.exe,14,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe"" --type=renderer --no-pre-read-main-dll --start-stack-profiler --disable-gpu-compositing --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=54 --time-ticks-at-unix-epoch=-1769579956299326 --launch-time-ticks=4496239229 --field-trial-handle=1980,i,9618310540848860198,12043710111697164074,262144 --variations-seed-version --mojo-platform-channel-handle=7156 /prefetch:1",C:\Users\dev\AppData\Local\Thorium\Application\thorium.exe,false,2026-01-28T07:14:12.539732Z,0.0625,0.03125,"{
+ ""ReadOperationCount"": 44,
+ ""WriteOperationCount"": 78,
+ ""OtherOperationCount"": 157,
+ ""ReadTransferCount"": 47576,
+ ""WriteTransferCount"": 37424,
+ ""OtherTransferCount"": 13916
+}","{
+ ""PageFaultCount"": 10705,
+ ""PeakWorkingSetSize"": 39071744,
+ ""WorkingSetSize"": 39047168,
+ ""QuotaPeakPagedPoolUsage"": 727056,
+ ""QuotaPagedPoolUsage"": 724008,
+ ""QuotaPeakNonPagedPoolUsage"": 18680,
+ ""QuotaNonPagedPoolUsage"": 18504,
+ ""PagefileUsage"": 19443712,
+ ""PeakPagefileUsage"": 22573056
+}",383977332736,false,2026-01-28T07:14:12.539732Z,0001-01-01T00:00:00Z
+" 8184"," 864",SystemSettings.exe,18,DEVBOX\dev,S-1-5-21-3859055682-1022291564-1296124166-1000,"""C:\Windows\ImmersiveControlPanel\SystemSettings.exe"" -ServerName:microsoft.windows.immersivecontrolpanel",C:\Windows\ImmersiveControlPanel\SystemSettings.exe,false,2026-01-28T06:01:19.9178826Z,0.34375,0.203125,"{
+ ""ReadOperationCount"": 5,
+ ""WriteOperationCount"": 1,
+ ""OtherOperationCount"": 1409,
+ ""ReadTransferCount"": 33930,
+ ""WriteTransferCount"": 24,
+ ""OtherTransferCount"": 14016
+}","{
+ ""PageFaultCount"": 26837,
+ ""PeakWorkingSetSize"": 98889728,
+ ""WorkingSetSize"": 1601536,
+ ""QuotaPeakPagedPoolUsage"": 955264,
+ ""QuotaPagedPoolUsage"": 793744,
+ ""QuotaPeakNonPagedPoolUsage"": 42112,
+ ""QuotaNonPagedPoolUsage"": 40208,
+ ""PagefileUsage"": 33300480,
+ ""PeakPagefileUsage"": 39374848
+}",456254124032,false,2026-01-28T06:01:19.9178826Z,0001-01-01T00:00:00Z
+" 864"," 724",svchost.exe,12,NT AUTHORITY\SYSTEM,S-1-5-18,C:\Windows\system32\svchost.exe -k DcomLaunch -p,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:28.684627Z,0.546875,2.40625,"{
+ ""ReadOperationCount"": 33,
+ ""WriteOperationCount"": 6,
+ ""OtherOperationCount"": 14476,
+ ""ReadTransferCount"": 685056,
+ ""WriteTransferCount"": 135168,
+ ""OtherTransferCount"": 277836
+}","{
+ ""PageFaultCount"": 14974,
+ ""PeakWorkingSetSize"": 27832320,
+ ""WorkingSetSize"": 26935296,
+ ""QuotaPeakPagedPoolUsage"": 491168,
+ ""QuotaPagedPoolUsage"": 482512,
+ ""QuotaPeakNonPagedPoolUsage"": 25064,
+ ""QuotaNonPagedPoolUsage"": 21816,
+ ""PagefileUsage"": 9691136,
+ ""PeakPagefileUsage"": 12521472
+}",1031438057472,false,2026-01-28T05:59:28.684627Z,0001-01-01T00:00:00Z
+" 892"," 652",fontdrvhost.exe,5,Font Driver Host\UMFD-1,S-1-5-96-0-1,"""fontdrvhost.exe""",C:\Windows\System32\fontdrvhost.exe,false,2026-01-28T05:59:28.9075719Z,0.09375,0.25,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 99,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 2476
+}","{
+ ""PageFaultCount"": 3045,
+ ""PeakWorkingSetSize"": 7618560,
+ ""WorkingSetSize"": 5922816,
+ ""QuotaPeakPagedPoolUsage"": 241360,
+ ""QuotaPagedPoolUsage"": 241360,
+ ""QuotaPeakNonPagedPoolUsage"": 8848,
+ ""QuotaNonPagedPoolUsage"": 8424,
+ ""PagefileUsage"": 3379200,
+ ""PeakPagefileUsage"": 3489792
+}",643806736384,false,2026-01-28T05:59:28.9075719Z,0001-01-01T00:00:00Z
+" 900"," 604",fontdrvhost.exe,5,Font Driver Host\UMFD-0,S-1-5-96-0-0,"""fontdrvhost.exe""",C:\Windows\System32\fontdrvhost.exe,false,2026-01-28T05:59:28.9075921Z,0,0.03125,"{
+ ""ReadOperationCount"": 0,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 27,
+ ""ReadTransferCount"": 0,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 676
+}","{
+ ""PageFaultCount"": 1186,
+ ""PeakWorkingSetSize"": 4276224,
+ ""WorkingSetSize"": 3067904,
+ ""QuotaPeakPagedPoolUsage"": 44176,
+ ""QuotaPagedPoolUsage"": 44176,
+ ""QuotaPeakNonPagedPoolUsage"": 7216,
+ ""QuotaNonPagedPoolUsage"": 6656,
+ ""PagefileUsage"": 1519616,
+ ""PeakPagefileUsage"": 1576960
+}",735794704384,false,2026-01-28T05:59:28.9075921Z,0001-01-01T00:00:00Z
+" 984"," 724",svchost.exe,10,NT AUTHORITY\NETWORK SERVICE,S-1-5-20,C:\Windows\system32\svchost.exe -k RPCSS -p,C:\Windows\System32\svchost.exe,true,2026-01-28T05:59:29.5902467Z,2.640625,2.546875,"{
+ ""ReadOperationCount"": 11,
+ ""WriteOperationCount"": 0,
+ ""OtherOperationCount"": 3638,
+ ""ReadTransferCount"": 45056,
+ ""WriteTransferCount"": 0,
+ ""OtherTransferCount"": 216332
+}","{
+ ""PageFaultCount"": 17623,
+ ""PeakWorkingSetSize"": 16629760,
+ ""WorkingSetSize"": 15908864,
+ ""QuotaPeakPagedPoolUsage"": 187864,
+ ""QuotaPagedPoolUsage"": 178480,
+ ""QuotaPeakNonPagedPoolUsage"": 25608,
+ ""QuotaNonPagedPoolUsage"": 19488,
+ ""PagefileUsage"": 7766016,
+ ""PeakPagefileUsage"": 8458240
+}",600187805696,false,2026-01-28T05:59:29.5902467Z,0001-01-01T00:00:00Z

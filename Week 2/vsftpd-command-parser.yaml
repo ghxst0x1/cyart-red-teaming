@@ -1,0 +1,14 @@
+name: custom/vsftpd-command-parser
+description: "Parse vsftpd command logs to detect backdoor triggers"
+filter: "evt.Parsed.program == 'vsftpd-cmd'"
+onsuccess: next_stage
+nodes:
+  - grok:
+      # Updated pattern to remove the extra [%{DATA}] field
+      pattern: '%{DAY} %{MONTH} %{MONTHDAY} %{TIME} %{YEAR} \[pid %{NUMBER}\] FTP command: Client "%{IP:source_ip}", "%{DATA:ftp_cmd}"'
+      apply_on: message
+statics:
+  - meta: source_ip
+    expression: "evt.Parsed.source_ip"
+  - meta: ftp_cmd
+    expression: "evt.Parsed.ftp_cmd"

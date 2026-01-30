@@ -1,0 +1,4 @@
+filenames:
+  - /var/log/vsftpd.log
+labels:
+  type: vsftpd-cmd

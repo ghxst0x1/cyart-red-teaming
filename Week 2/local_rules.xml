@@ -1,0 +1,11 @@
+<group name="vsftpd,attack,">
+  <rule id="100101" level="15">
+    <if_sid>530</if_sid>
+    <match>ossec: output: 'vsftpd-backdoor</match>
+    <check_diff />
+    <description>CRITICAL: vsftpd 2.3.4 Backdoor shell active on Port 6200</description>
+    <mitre>
+      <id>T1190</id>
+    </mitre>
+  </rule>
+</group>
